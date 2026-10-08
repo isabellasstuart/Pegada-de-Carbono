@@ -1,0 +1,88 @@
+stress-ng: info:  [3081] setting to a 10 mins run per stressor
+stress-ng: info:  [3081] dispatching hogs: 4 cpu, 2 vm
+stress-ng: info:  [3081] note: 4 cpus have scaling governors set to powersave and this may impact performance; setting /sys/devices/system/cpu/cpu*/cpufreq/scaling_governor to 'performance' may improve performance
+stress-ng: info:  [3082] therm: AvGHz MnGHz MxGHz  LdA1  LdA5 LdA15  iwlwif x86_pk
+stress-ng: info:  [3082] therm:  1.10  1.10  1.10  0.08  1.64  2.15    0.00  38.00
+stress-ng: info:  [3087] vm: using 1.44GB per stressor instance (total 2.88GB of 3.60GB available memory)
+stress-ng: info:  [3082] therm:  3.60  3.60  3.60  0.99  1.78  2.19    0.00  58.00
+stress-ng: info:  [3082] therm:  3.60  3.60  3.60  1.76  1.92  2.23    0.00  59.00
+stress-ng: info:  [3082] therm:  3.60  3.60  3.60  2.50  2.07  2.28    0.00  61.00
+stress-ng: info:  [3082] therm:  3.60  3.60  3.60  3.04  2.20  2.32    0.00  58.00
+stress-ng: info:  [3082] therm:  3.60  3.60  3.60  3.49  2.33  2.36    0.00  63.00
+stress-ng: info:  [3082] therm:  3.60  3.60  3.60  3.88  2.45  2.40    0.00  61.00
+stress-ng: info:  [3082] therm:  3.60  3.60  3.60  4.21  2.57  2.44    0.00  64.00
+stress-ng: info:  [3082] therm:  3.60  3.60  3.60  4.48  2.68  2.48    0.00  63.00
+stress-ng: info:  [3082] therm:  3.60  3.60  3.60  4.72  2.79  2.52    0.00  63.00
+stress-ng: info:  [3082] therm:  3.60  3.60  3.60  4.91  2.90  2.55    0.00  64.00
+stress-ng: info:  [3082] therm:  3.60  3.60  3.60  5.08  3.00  2.59    0.00  64.00
+stress-ng: info:  [3082] therm:  3.60  3.60  3.60  5.22  3.10  2.63    0.00  63.00
+stress-ng: info:  [3082] therm:  3.60  3.60  3.60  5.34  3.19  2.67    0.00  65.00
+stress-ng: info:  [3082] therm:  3.60  3.60  3.60  5.44  3.29  2.70    0.00  68.00
+stress-ng: info:  [3082] therm:  3.60  3.60  3.60  5.53  3.38  2.74    0.00  65.00
+stress-ng: info:  [3082] therm:  3.60  3.60  3.60  5.60  3.46  2.77    0.00  66.00
+stress-ng: info:  [3082] therm:  3.60  3.60  3.60  5.66  3.55  2.81    0.00  65.00
+stress-ng: info:  [3082] therm:  3.60  3.60  3.60  5.72  3.63  2.84    0.00  64.00
+stress-ng: info:  [3082] therm:  3.60  3.60  3.60  5.76  3.71  2.88    0.00  65.00
+stress-ng: info:  [3082] therm:  3.60  3.60  3.60  5.80  3.78  2.91    0.00  66.00
+stress-ng: info:  [3089] vm: x86 movdiri instruction not supported, dropping back to plain 64 bit writes
+stress-ng: info:  [3082] therm:  3.60  3.60  3.60  5.83  3.86  2.94    0.00  67.00
+stress-ng: info:  [3082] therm:  3.60  3.60  3.60  5.86  3.93  2.98    0.00  68.00
+stress-ng: info:  [3082] therm:  3.60  3.60  3.60  5.88  4.00  3.01    0.00  67.00
+stress-ng: info:  [3082] therm:  3.60  3.60  3.60  5.90  4.06  3.04    0.00  68.00
+stress-ng: info:  [3082] therm: AvGHz MnGHz MxGHz  LdA1  LdA5 LdA15  iwlwif x86_pk
+stress-ng: info:  [3082] therm:  3.60  3.60  3.60  5.91  4.13  3.07    0.00  67.00
+stress-ng: info:  [3082] therm:  3.60  3.60  3.60  5.93  4.19  3.11    0.00  68.00
+stress-ng: info:  [3082] therm:  3.60  3.60  3.60  5.94  4.25  3.14    0.00  70.00
+stress-ng: info:  [3082] therm:  3.60  3.60  3.60  5.95  4.31  3.17    0.00  67.00
+stress-ng: info:  [3082] therm:  3.60  3.60  3.60  5.96  4.36  3.20    0.00  68.00
+stress-ng: info:  [3082] therm:  3.60  3.60  3.60  5.96  4.42  3.23    0.00  68.00
+stress-ng: info:  [3082] therm:  3.60  3.60  3.60  6.05  4.49  3.27    0.00  68.00
+stress-ng: info:  [3082] therm:  3.60  3.60  3.60  6.04  4.54  3.30    0.00  69.00
+stress-ng: info:  [3082] therm:  3.60  3.60  3.60  6.04  4.58  3.33    0.00  68.00
+stress-ng: info:  [3082] therm:  3.60  3.60  3.60  6.03  4.63  3.35    0.00  68.00
+stress-ng: info:  [3082] therm:  3.60  3.60  3.60  6.02  4.68  3.38    0.00  71.00
+stress-ng: info:  [3082] therm:  3.60  3.60  3.60  6.02  4.72  3.41    0.00  68.00
+stress-ng: info:  [3082] therm:  3.60  3.60  3.60  6.02  4.76  3.44    0.00  67.00
+stress-ng: info:  [3082] therm:  3.60  3.60  3.60  6.01  4.81  3.47    0.00  67.00
+stress-ng: info:  [3082] therm:  3.60  3.60  3.60  6.01  4.84  3.50    0.00  68.00
+stress-ng: info:  [3082] therm:  3.60  3.60  3.60  6.01  4.88  3.52    0.00  67.00
+stress-ng: info:  [3082] therm:  3.60  3.60  3.60  6.01  4.92  3.55    0.00  67.00
+stress-ng: info:  [3082] therm:  3.60  3.60  3.60  6.01  4.96  3.58    0.00  68.00
+stress-ng: info:  [3082] therm:  3.60  3.60  3.60  6.00  4.99  3.60    0.00  70.00
+stress-ng: info:  [3082] therm:  3.60  3.60  3.60  6.00  5.02  3.63    0.00  67.00
+stress-ng: info:  [3082] therm:  3.60  3.60  3.60  6.00  5.06  3.66    0.00  69.00
+stress-ng: info:  [3082] therm:  3.60  3.60  3.60  6.00  5.09  3.68    0.00  72.00
+stress-ng: info:  [3082] therm:  3.60  3.60  3.60  6.00  5.12  3.71    0.00  69.00
+stress-ng: info:  [3082] therm:  3.60  3.60  3.60  6.00  5.15  3.73    0.00  67.00
+stress-ng: info:  [3082] therm:  3.60  3.60  3.60  6.00  5.18  3.76    0.00  72.00
+stress-ng: info:  [3082] therm: AvGHz MnGHz MxGHz  LdA1  LdA5 LdA15  iwlwif x86_pk
+stress-ng: info:  [3082] therm:  3.60  3.60  3.60  6.00  5.20  3.78    0.00  69.00
+stress-ng: info:  [3082] therm:  3.60  3.60  3.60  6.00  5.23  3.80    0.00  68.00
+stress-ng: info:  [3082] therm:  3.60  3.60  3.60  6.00  5.26  3.83    0.00  67.00
+stress-ng: info:  [3082] therm:  3.60  3.60  3.60  6.00  5.28  3.85    0.00  67.00
+stress-ng: info:  [3082] therm:  3.60  3.60  3.60  6.00  5.31  3.88    0.00  69.00
+stress-ng: info:  [3082] therm:  3.60  3.60  3.60  6.00  5.33  3.90    0.00  67.00
+stress-ng: info:  [3082] therm:  3.60  3.60  3.60  6.00  5.35  3.92    0.00  70.00
+stress-ng: info:  [3082] therm:  3.60  3.60  3.60  6.00  5.37  3.94    0.00  69.00
+stress-ng: info:  [3082] therm:  3.60  3.60  3.60  6.00  5.40  3.97    0.00  67.00
+stress-ng: info:  [3082] therm:  3.60  3.60  3.60  6.00  5.42  3.99    0.00  68.00
+stress-ng: info:  [3082] therm:  3.60  3.60  3.60  6.00  5.44  4.01    0.00  67.00
+stress-ng: metrc: [3081] stressor       bogo ops real time  usr time  sys time   bogo ops/s     bogo ops/s
+stress-ng: metrc: [3081]                           (secs)    (secs)    (secs)   (real time) (usr+sys time)
+stress-ng: metrc: [3081] cpu             2678507    600.00   1641.73      0.12      4464.17        1631.40
+stress-ng: metrc: [3081] vm             50377241    600.51    621.70    132.71     83891.20       66777.24
+stress-ng: info:  [3081] cpu:
+stress-ng: info:  [3081]  x86_pkg_temp           67.50 C (340.65 K)
+stress-ng: info:  [3081] vm:
+stress-ng: info:  [3081]  x86_pkg_temp           66.00 C (339.15 K)
+stress-ng: info:  [3081] for a 600.52s run time:
+stress-ng: info:  [3081]    2402.07s available CPU time
+stress-ng: info:  [3081]    2263.42s user time   ( 94.23%)
+stress-ng: info:  [3081]     132.82s system time (  5.53%)
+stress-ng: info:  [3081]    2396.24s total time  ( 99.76%)
+stress-ng: info:  [3081] load average: 6.00 5.44 4.01
+stress-ng: info:  [3081] skipped: 0
+stress-ng: info:  [3081] passed: 6: cpu (4) vm (2)
+stress-ng: info:  [3081] failed: 0
+stress-ng: info:  [3081] metrics untrustworthy: 0
+stress-ng: info:  [3081] successful run completed in 10 mins

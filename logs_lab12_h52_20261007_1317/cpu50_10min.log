@@ -1,0 +1,87 @@
+stress-ng: info:  [2086] setting to a 10 mins run per stressor
+stress-ng: info:  [2086] dispatching hogs: 4 cpu
+stress-ng: info:  [2086] note: 4 cpus have scaling governors set to powersave and this may impact performance; setting /sys/devices/system/cpu/cpu*/cpufreq/scaling_governor to 'performance' may improve performance
+stress-ng: info:  [2087] therm: AvGHz MnGHz MxGHz  LdA1  LdA5 LdA15  x86_pk
+stress-ng: info:  [2087] therm:  1.20  1.19  1.20  0.02  0.12  0.09   28.00
+stress-ng: info:  [2088] cpu: for stable load results, select a specific cpu stress method with --cpu-method other than 'all'
+stress-ng: info:  [2089] cpu: for stable load results, select a specific cpu stress method with --cpu-method other than 'all'
+stress-ng: info:  [2091] cpu: for stable load results, select a specific cpu stress method with --cpu-method other than 'all'
+stress-ng: info:  [2090] cpu: for stable load results, select a specific cpu stress method with --cpu-method other than 'all'
+stress-ng: info:  [2087] therm:  1.71  1.71  1.71  0.33  0.18  0.11   29.00
+stress-ng: info:  [2087] therm:  1.08  0.80  1.90  0.58  0.24  0.13   27.00
+stress-ng: info:  [2087] therm:  0.80  0.80  0.80  1.10  0.36  0.17   28.00
+stress-ng: info:  [2087] therm:  1.10  1.10  1.10  0.93  0.35  0.17   28.00
+stress-ng: info:  [2087] therm:  0.80  0.80  0.80  1.08  0.40  0.19   28.00
+stress-ng: info:  [2087] therm:  0.80  0.80  0.80  0.92  0.39  0.19   29.00
+stress-ng: info:  [2087] therm:  1.10  1.10  1.10  0.78  0.38  0.18   29.00
+stress-ng: info:  [2087] therm:  1.06  0.80  1.84  0.95  0.43  0.20   28.00
+stress-ng: info:  [2087] therm:  1.67  1.50  1.90  0.80  0.41  0.20   30.00
+stress-ng: info:  [2087] therm:  1.10  1.10  1.10  0.98  0.47  0.22   29.00
+stress-ng: info:  [2087] therm:  1.10  1.10  1.10  0.83  0.45  0.21   30.00
+stress-ng: info:  [2087] therm:  1.10  1.10  1.10  0.99  0.50  0.23   29.00
+stress-ng: info:  [2087] therm:  1.10  1.10  1.10  1.46  0.62  0.27   29.00
+stress-ng: info:  [2087] therm:  0.80  0.80  0.80  1.53  0.66  0.29   28.00
+stress-ng: info:  [2087] therm:  1.10  1.10  1.10  1.69  0.72  0.32   29.00
+stress-ng: info:  [2087] therm:  0.97  0.80  1.50  1.89  0.80  0.35   29.00
+stress-ng: info:  [2087] therm:  1.50  1.50  1.50  1.76  0.80  0.35   31.00
+stress-ng: info:  [2087] therm:  0.80  0.80  0.80  1.49  0.78  0.35   29.00
+stress-ng: info:  [2087] therm:  0.88  0.80  1.10  1.57  0.82  0.37   29.00
+stress-ng: info:  [2087] therm:  1.10  1.10  1.10  1.62  0.86  0.38   30.00
+stress-ng: info:  [2087] therm:  0.80  0.80  0.80  1.67  0.89  0.40   29.00
+stress-ng: info:  [2087] therm:  1.10  1.10  1.10  1.70  0.93  0.42   30.00
+stress-ng: info:  [2087] therm:  1.10  1.10  1.10  2.13  1.05  0.46   30.00
+stress-ng: info:  [2087] therm:  0.80  0.80  0.80  1.80  1.01  0.46   29.00
+stress-ng: info:  [2087] therm: AvGHz MnGHz MxGHz  LdA1  LdA5 LdA15  x86_pk
+stress-ng: info:  [2087] therm:  1.10  1.10  1.10  2.15  1.11  0.50   30.00
+stress-ng: info:  [2087] therm:  0.80  0.80  0.80  2.11  1.14  0.51   29.00
+stress-ng: info:  [2087] therm:  1.10  1.10  1.10  2.08  1.17  0.53   31.00
+stress-ng: info:  [2087] therm:  1.11  0.80  2.04  2.08  1.20  0.54   29.00
+stress-ng: info:  [2087] therm:  0.80  0.80  0.80  2.46  1.31  0.59   29.00
+stress-ng: info:  [2087] therm:  0.80  0.80  0.80  2.37  1.33  0.60   29.00
+stress-ng: info:  [2087] therm:  0.80  0.80  0.80  2.01  1.28  0.59   29.00
+stress-ng: info:  [2087] therm:  0.80  0.80  0.80  1.70  1.24  0.59   29.00
+stress-ng: info:  [2087] therm:  0.80  0.80  0.80  1.76  1.27  0.60   30.00
+stress-ng: info:  [2087] therm:  1.10  1.10  1.10  2.18  1.37  0.65   31.00
+stress-ng: info:  [2087] therm:  1.10  1.10  1.10  2.46  1.46  0.68   30.00
+stress-ng: info:  [2087] therm:  0.80  0.80  0.80  2.70  1.54  0.72   29.00
+stress-ng: info:  [2087] therm:  1.10  1.10  1.10  2.90  1.63  0.75   30.00
+stress-ng: info:  [2087] therm:  0.96  0.80  1.02  2.75  1.64  0.77   29.00
+stress-ng: info:  [2087] therm:  0.80  0.80  0.80  2.65  1.65  0.78   30.00
+stress-ng: info:  [2087] therm:  1.03  0.80  1.70  2.54  1.66  0.79   30.00
+stress-ng: info:  [2087] therm:  1.10  1.10  1.10  2.54  1.69  0.81   30.00
+stress-ng: info:  [2087] therm:  0.80  0.80  0.80  2.22  1.65  0.81   30.00
+stress-ng: info:  [2087] therm:  1.10  1.10  1.10  1.95  1.61  0.81   31.00
+stress-ng: info:  [2087] therm:  1.10  1.10  1.10  1.95  1.62  0.82   30.00
+stress-ng: info:  [2087] therm:  1.10  1.10  1.10  1.97  1.64  0.83   31.00
+stress-ng: info:  [2087] therm:  1.10  1.10  1.10  1.99  1.65  0.84   30.00
+stress-ng: info:  [2087] therm:  0.92  0.80  1.26  1.98  1.66  0.86   30.00
+stress-ng: info:  [2087] therm:  1.16  0.80  1.94  1.67  1.60  0.85   30.00
+stress-ng: info:  [2087] therm:  1.17  0.80  2.30  1.73  1.62  0.86   30.00
+stress-ng: info:  [2087] therm: AvGHz MnGHz MxGHz  LdA1  LdA5 LdA15  x86_pk
+stress-ng: info:  [2087] therm:  1.10  1.10  1.10  1.76  1.63  0.87   31.00
+stress-ng: info:  [2087] therm:  0.80  0.80  0.80  1.81  1.64  0.88   30.00
+stress-ng: info:  [2087] therm:  0.80  0.80  0.80  1.83  1.65  0.90   30.00
+stress-ng: info:  [2087] therm:  0.80  0.80  0.80  2.24  1.75  0.93   30.00
+stress-ng: info:  [2087] therm:  1.10  0.80  2.01  1.90  1.69  0.92   31.00
+stress-ng: info:  [2087] therm:  0.99  0.80  1.54  1.90  1.70  0.93   30.00
+stress-ng: info:  [2087] therm:  1.10  1.10  1.10  1.93  1.71  0.95   31.00
+stress-ng: info:  [2087] therm:  0.95  0.80  1.10  1.93  1.72  0.96   30.00
+stress-ng: info:  [2087] therm:  0.80  0.80  0.80  1.85  1.71  0.96   30.00
+stress-ng: info:  [2087] therm:  1.10  1.10  1.10  1.57  1.65  0.95   31.00
+stress-ng: info:  [2087] therm:  1.10  1.10  1.10  2.01  1.75  0.99   31.00
+stress-ng: metrc: [2086] stressor       bogo ops real time  usr time  sys time   bogo ops/s     bogo ops/s
+stress-ng: metrc: [2086]                           (secs)    (secs)    (secs)   (real time) (usr+sys time)
+stress-ng: metrc: [2086] cpu              618340    600.08   1200.17      0.36      1030.42         515.06
+stress-ng: info:  [2086] cpu:
+stress-ng: info:  [2086]  x86_pkg_temp           30.00 C (303.15 K)
+stress-ng: info:  [2086] for a 600.10s run time:
+stress-ng: info:  [2086]    2400.38s available CPU time
+stress-ng: info:  [2086]    1200.17s user time   ( 50.00%)
+stress-ng: info:  [2086]       0.35s system time (  0.01%)
+stress-ng: info:  [2086]    1200.52s total time  ( 50.01%)
+stress-ng: info:  [2086] load average: 2.01 1.75 0.99
+stress-ng: info:  [2086] skipped: 0
+stress-ng: info:  [2086] passed: 4: cpu (4)
+stress-ng: info:  [2086] failed: 0
+stress-ng: info:  [2086] metrics untrustworthy: 0
+stress-ng: info:  [2086] successful run completed in 10 mins

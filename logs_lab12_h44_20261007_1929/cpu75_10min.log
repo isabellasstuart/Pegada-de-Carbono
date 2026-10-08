@@ -1,0 +1,87 @@
+stress-ng: info:  [2395] setting to a 10 mins run per stressor
+stress-ng: info:  [2395] dispatching hogs: 4 cpu
+stress-ng: info:  [2395] note: 4 cpus have scaling governors set to powersave and this may impact performance; setting /sys/devices/system/cpu/cpu*/cpufreq/scaling_governor to 'performance' may improve performance
+stress-ng: info:  [2396] therm: AvGHz MnGHz MxGHz  LdA1  LdA5 LdA15  x86_pk
+stress-ng: info:  [2396] therm:  1.23  1.21  1.27  0.07  0.63  0.77   31.00
+stress-ng: info:  [2397] cpu: for stable load results, select a specific cpu stress method with --cpu-method other than 'all'
+stress-ng: info:  [2398] cpu: for stable load results, select a specific cpu stress method with --cpu-method other than 'all'
+stress-ng: info:  [2399] cpu: for stable load results, select a specific cpu stress method with --cpu-method other than 'all'
+stress-ng: info:  [2400] cpu: for stable load results, select a specific cpu stress method with --cpu-method other than 'all'
+stress-ng: info:  [2396] therm:  3.60  3.60  3.60  0.68  0.74  0.80   43.00
+stress-ng: info:  [2396] therm:  3.60  3.60  3.60  0.87  0.78  0.82   46.00
+stress-ng: info:  [2396] therm:  3.60  3.60  3.60  1.05  0.82  0.83   42.00
+stress-ng: info:  [2396] therm:  3.60  3.60  3.60  1.42  0.91  0.86   44.00
+stress-ng: info:  [2396] therm:  3.60  3.60  3.60  1.82  1.01  0.89   46.00
+stress-ng: info:  [2396] therm:  3.60  3.60  3.60  1.77  1.03  0.90   47.00
+stress-ng: info:  [2396] therm:  3.60  3.60  3.60  2.04  1.11  0.93   46.00
+stress-ng: info:  [2396] therm:  3.60  3.60  3.60  2.10  1.16  0.94   50.00
+stress-ng: info:  [2396] therm:  3.60  3.60  3.60  2.40  1.25  0.98   50.00
+stress-ng: info:  [2396] therm:  3.60  3.60  3.60  2.50  1.31  1.00   48.00
+stress-ng: info:  [2396] therm:  3.60  3.60  3.60  2.49  1.35  1.02   51.00
+stress-ng: info:  [2396] therm:  3.60  3.60  3.60  2.57  1.40  1.04   50.00
+stress-ng: info:  [2396] therm:  3.60  3.60  3.60  2.79  1.49  1.07   54.00
+stress-ng: info:  [2396] therm:  3.67  3.61  3.69  2.90  1.55  1.10   50.00
+stress-ng: info:  [2396] therm:  3.60  3.60  3.60  3.15  1.65  1.13   53.00
+stress-ng: info:  [2396] therm:  3.60  3.60  3.60  3.35  1.75  1.17   53.00
+stress-ng: info:  [2396] therm:  3.60  3.60  3.60  3.46  1.82  1.20   54.00
+stress-ng: info:  [2396] therm:  3.60  3.60  3.60  3.54  1.89  1.23   55.00
+stress-ng: info:  [2396] therm:  3.60  3.60  3.60  3.83  2.01  1.28   56.00
+stress-ng: info:  [2396] therm:  3.67  3.60  3.70  3.86  2.08  1.31   56.00
+stress-ng: info:  [2396] therm:  3.60  3.60  3.60  4.04  2.18  1.35   55.00
+stress-ng: info:  [2396] therm:  3.60  3.60  3.60  3.96  2.22  1.37   52.00
+stress-ng: info:  [2396] therm:  3.60  3.60  3.60  4.12  2.31  1.41   57.00
+stress-ng: info:  [2396] therm:  3.60  3.60  3.60  3.94  2.33  1.43   55.00
+stress-ng: info:  [2396] therm: AvGHz MnGHz MxGHz  LdA1  LdA5 LdA15  x86_pk
+stress-ng: info:  [2396] therm:  3.63  3.60  3.65  4.11  2.42  1.47   56.00
+stress-ng: info:  [2396] therm:  3.60  3.60  3.60  4.08  2.47  1.49   55.00
+stress-ng: info:  [2396] therm:  3.60  3.60  3.60  4.00  2.51  1.52   56.00
+stress-ng: info:  [2396] therm:  3.60  3.60  3.60  3.92  2.54  1.54   56.00
+stress-ng: info:  [2396] therm:  3.60  3.60  3.60  3.94  2.59  1.57   57.00
+stress-ng: info:  [2396] therm:  3.60  3.60  3.60  4.18  2.69  1.61   56.00
+stress-ng: info:  [2396] therm:  3.60  3.60  3.60  4.06  2.71  1.63   57.00
+stress-ng: info:  [2396] therm:  3.60  3.60  3.60  3.97  2.74  1.65   57.00
+stress-ng: info:  [2396] therm:  3.60  3.60  3.60  4.05  2.80  1.68   57.00
+stress-ng: info:  [2396] therm:  3.60  3.60  3.60  4.20  2.87  1.72   60.00
+stress-ng: info:  [2396] therm:  3.60  3.60  3.60  4.17  2.91  1.74   60.00
+stress-ng: info:  [2396] therm:  3.60  3.60  3.60  3.75  2.86  1.74   57.00
+stress-ng: info:  [2396] therm:  3.60  3.60  3.60  3.79  2.90  1.76   57.00
+stress-ng: info:  [2396] therm:  3.60  3.60  3.60  3.74  2.92  1.78   60.00
+stress-ng: info:  [2396] therm:  3.60  3.60  3.60  3.71  2.94  1.80   60.00
+stress-ng: info:  [2396] therm:  3.60  3.60  3.60  3.45  2.91  1.80   61.00
+stress-ng: info:  [2396] therm:  3.60  3.60  3.60  3.38  2.91  1.82   57.00
+stress-ng: info:  [2396] therm:  3.60  3.60  3.60  3.40  2.93  1.84   60.00
+stress-ng: info:  [2396] therm:  3.60  3.60  3.60  3.26  2.92  1.84   58.00
+stress-ng: info:  [2396] therm:  3.60  3.60  3.60  3.14  2.90  1.85   58.00
+stress-ng: info:  [2396] therm:  3.60  3.60  3.60  3.20  2.92  1.87   62.00
+stress-ng: info:  [2396] therm:  3.60  3.60  3.60  3.16  2.93  1.88   62.00
+stress-ng: info:  [2396] therm:  3.60  3.60  3.60  3.21  2.95  1.90   62.00
+stress-ng: info:  [2396] therm:  3.60  3.60  3.60  3.10  2.93  1.91   57.00
+stress-ng: info:  [2396] therm:  3.60  3.60  3.60  3.01  2.92  1.91   60.00
+stress-ng: info:  [2396] therm: AvGHz MnGHz MxGHz  LdA1  LdA5 LdA15  x86_pk
+stress-ng: info:  [2396] therm:  3.60  3.60  3.60  2.70  2.85  1.90   58.00
+stress-ng: info:  [2396] therm:  3.60  3.60  3.60  2.83  2.87  1.92   62.00
+stress-ng: info:  [2396] therm:  3.60  3.60  3.60  2.86  2.88  1.93   62.00
+stress-ng: info:  [2396] therm:  3.60  3.60  3.60  2.96  2.90  1.95   59.00
+stress-ng: info:  [2396] therm:  3.60  3.60  3.60  2.89  2.89  1.96   62.00
+stress-ng: info:  [2396] therm:  3.60  3.60  3.60  2.91  2.89  1.97   61.00
+stress-ng: info:  [2396] therm:  3.60  3.60  3.60  3.08  2.93  1.99   60.00
+stress-ng: info:  [2396] therm:  3.60  3.60  3.60  3.22  2.96  2.01   62.00
+stress-ng: info:  [2396] therm:  3.60  3.60  3.60  3.19  2.96  2.02   58.00
+stress-ng: info:  [2396] therm:  3.60  3.60  3.60  3.31  3.00  2.04   61.00
+stress-ng: info:  [2396] therm:  3.60  3.60  3.60  3.26  3.00  2.05   60.00
+stress-ng: metrc: [2395] stressor       bogo ops real time  usr time  sys time   bogo ops/s     bogo ops/s
+stress-ng: metrc: [2395]                           (secs)    (secs)    (secs)   (real time) (usr+sys time)
+stress-ng: metrc: [2395] cpu             2948409    600.00   1795.86      4.00      4913.99        1638.13
+stress-ng: info:  [2395] cpu:
+stress-ng: info:  [2395]  x86_pkg_temp           59.50 C (332.65 K)
+stress-ng: info:  [2395] for a 600.01s run time:
+stress-ng: info:  [2395]    2400.05s available CPU time
+stress-ng: info:  [2395]    1795.85s user time   ( 74.83%)
+stress-ng: info:  [2395]       4.00s system time (  0.17%)
+stress-ng: info:  [2395]    1799.85s total time  ( 74.99%)
+stress-ng: info:  [2395] load average: 3.26 3.00 2.05
+stress-ng: info:  [2395] skipped: 0
+stress-ng: info:  [2395] passed: 4: cpu (4)
+stress-ng: info:  [2395] failed: 0
+stress-ng: info:  [2395] metrics untrustworthy: 0
+stress-ng: info:  [2395] successful run completed in 10 mins

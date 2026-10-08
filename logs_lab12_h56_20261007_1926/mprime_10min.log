@@ -1,0 +1,19 @@
+[Main thread Oct  7 20:31] Mersenne number primality test program version 30.19 build 20
+[Main thread Oct  7 20:31] Optimizing for CPU architecture: Core i3/i5/i7, L2 cache size: 4x256 KB, L3 cache size: 6 MB
+[Main thread Oct  7 20:31] Starting workers.
+[Worker #1 Oct  7 20:31] Worker starting
+[Worker #1 Oct  7 20:31] Beginning a continuous torture test on your computer.
+[Worker #1 Oct  7 20:31] Please read stress.txt.  Hit ^C to end this test.
+[Worker #2 Oct  7 20:31] Worker starting
+[Worker #3 Oct  7 20:31] Worker starting
+[Worker #4 Oct  7 20:31] Worker starting
+[Worker #3 Oct  7 20:31] Beginning a continuous torture test on your computer.
+[Worker #2 Oct  7 20:31] Beginning a continuous torture test on your computer.
+[Worker #2 Oct  7 20:31] Please read stress.txt.  Hit ^C to end this test.
+[Worker #3 Oct  7 20:31] Please read stress.txt.  Hit ^C to end this test.
+[Worker #4 Oct  7 20:31] Beginning a continuous torture test on your computer.
+[Worker #4 Oct  7 20:31] Please read stress.txt.  Hit ^C to end this test.
+[Worker #4 Oct  7 20:31] Test 1, 52000 Lucas-Lehmer in-place iterations of M5705025 using FMA3 FFT length 288K, Pass1=384, Pass2=768, clm=4.
+[Worker #2 Oct  7 20:31] Test 1, 52000 Lucas-Lehmer in-place iterations of M5705025 using FMA3 FFT length 288K, Pass1=384, Pass2=768, clm=4.
+[Worker #3 Oct  7 20:31] Test 1, 52000 Lucas-Lehmer in-place iterations of M5705025 using FMA3 FFT length 288K, Pass1=384, Pass2=768, clm=4.
+[Worker #1 Oct  7 20:31] Test 1, 52000 Lucas-Lehmer in-place iterations of M5705025 using FMA3 FFT length 288K, Pass1=384, Pass2=768, clm=4.
