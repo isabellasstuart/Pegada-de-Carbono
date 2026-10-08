@@ -1,0 +1,57 @@
+[Main thread Oct  8 19:41] Mersenne number primality test program version 30.19 build 20
+[Main thread Oct  8 19:41] Optimizing for CPU architecture: Core i3/i5/i7, L2 cache size: 4x256 KB, L3 cache size: 6 MB
+[Main thread Oct  8 19:41] Starting workers.
+[Worker #1 Oct  8 19:41] Worker starting
+[Worker #4 Oct  8 19:41] Worker starting
+[Worker #3 Oct  8 19:41] Worker starting
+[Worker #4 Oct  8 19:41] Beginning a continuous torture test on your computer.
+[Worker #4 Oct  8 19:41] Please read stress.txt.  Hit ^C to end this test.
+[Worker #2 Oct  8 19:41] Worker starting
+[Worker #3 Oct  8 19:41] Beginning a continuous torture test on your computer.
+[Worker #3 Oct  8 19:41] Please read stress.txt.  Hit ^C to end this test.
+[Worker #2 Oct  8 19:41] Beginning a continuous torture test on your computer.
+[Worker #2 Oct  8 19:41] Please read stress.txt.  Hit ^C to end this test.
+[Worker #1 Oct  8 19:41] Beginning a continuous torture test on your computer.
+[Worker #1 Oct  8 19:41] Please read stress.txt.  Hit ^C to end this test.
+[Worker #3 Oct  8 19:41] Test 1, 52000 Lucas-Lehmer in-place iterations of M5705025 using FMA3 FFT length 288K, Pass1=384, Pass2=768, clm=4.
+[Worker #2 Oct  8 19:41] Test 1, 52000 Lucas-Lehmer in-place iterations of M5705025 using FMA3 FFT length 288K, Pass1=384, Pass2=768, clm=4.
+[Worker #1 Oct  8 19:41] Test 1, 52000 Lucas-Lehmer in-place iterations of M5705025 using FMA3 FFT length 288K, Pass1=384, Pass2=768, clm=4.
+[Worker #4 Oct  8 19:41] Test 1, 52000 Lucas-Lehmer in-place iterations of M5705025 using FMA3 FFT length 288K, Pass1=384, Pass2=768, clm=4.
+[Worker #4 Oct  8 19:42] Test 2, 52000 Lucas-Lehmer in-place iterations of M5605023 using FMA3 FFT length 288K, Pass1=384, Pass2=768, clm=4.
+[Worker #1 Oct  8 19:42] Test 2, 52000 Lucas-Lehmer in-place iterations of M5605023 using FMA3 FFT length 288K, Pass1=384, Pass2=768, clm=4.
+[Worker #2 Oct  8 19:42] Test 2, 52000 Lucas-Lehmer in-place iterations of M5605023 using FMA3 FFT length 288K, Pass1=384, Pass2=768, clm=4.
+[Worker #3 Oct  8 19:42] Test 2, 52000 Lucas-Lehmer in-place iterations of M5605023 using FMA3 FFT length 288K, Pass1=384, Pass2=768, clm=4.
+[Worker #1 Oct  8 19:43] Test 3, 52000 Lucas-Lehmer in-place iterations of M5505025 using FMA3 FFT length 288K, Pass1=384, Pass2=768, clm=4.
+[Worker #4 Oct  8 19:43] Test 3, 52000 Lucas-Lehmer in-place iterations of M5505025 using FMA3 FFT length 288K, Pass1=384, Pass2=768, clm=4.
+[Worker #2 Oct  8 19:43] Test 3, 52000 Lucas-Lehmer in-place iterations of M5505025 using FMA3 FFT length 288K, Pass1=384, Pass2=768, clm=4.
+[Worker #3 Oct  8 19:43] Test 3, 52000 Lucas-Lehmer in-place iterations of M5505025 using FMA3 FFT length 288K, Pass1=384, Pass2=768, clm=4.
+[Worker #3 Oct  8 19:44] Test 4, 52000 Lucas-Lehmer in-place iterations of M5505023 using FMA3 FFT length 288K, Pass1=384, Pass2=768, clm=4.
+[Worker #4 Oct  8 19:44] Test 4, 52000 Lucas-Lehmer in-place iterations of M5505023 using FMA3 FFT length 288K, Pass1=384, Pass2=768, clm=4.
+[Worker #1 Oct  8 19:44] Test 4, 52000 Lucas-Lehmer in-place iterations of M5505023 using FMA3 FFT length 288K, Pass1=384, Pass2=768, clm=4.
+[Worker #2 Oct  8 19:44] Test 4, 52000 Lucas-Lehmer in-place iterations of M5505023 using FMA3 FFT length 288K, Pass1=384, Pass2=768, clm=4.
+[Worker #4 Oct  8 19:45] Test 5, 68000 Lucas-Lehmer in-place iterations of M5120737 using FMA3 FFT length 288K, Pass1=384, Pass2=768, clm=4.
+[Worker #3 Oct  8 19:45] Test 5, 68000 Lucas-Lehmer in-place iterations of M5120737 using FMA3 FFT length 288K, Pass1=384, Pass2=768, clm=4.
+[Worker #2 Oct  8 19:45] Test 5, 68000 Lucas-Lehmer in-place iterations of M5120737 using FMA3 FFT length 288K, Pass1=384, Pass2=768, clm=4.
+[Worker #1 Oct  8 19:45] Test 5, 68000 Lucas-Lehmer in-place iterations of M5120737 using FMA3 FFT length 288K, Pass1=384, Pass2=768, clm=4.
+[Worker #4 Oct  8 19:47] Test 6, 68000 Lucas-Lehmer in-place iterations of M5030735 using FMA3 FFT length 288K, Pass1=384, Pass2=768, clm=4.
+[Worker #3 Oct  8 19:47] Test 6, 68000 Lucas-Lehmer in-place iterations of M5030735 using FMA3 FFT length 288K, Pass1=384, Pass2=768, clm=4.
+[Worker #2 Oct  8 19:47] Test 6, 68000 Lucas-Lehmer in-place iterations of M5030735 using FMA3 FFT length 288K, Pass1=384, Pass2=768, clm=4.
+[Worker #1 Oct  8 19:47] Test 6, 68000 Lucas-Lehmer in-place iterations of M5030735 using FMA3 FFT length 288K, Pass1=384, Pass2=768, clm=4.
+[Worker #4 Oct  8 19:48] Test 7, 68000 Lucas-Lehmer in-place iterations of M4980737 using FMA3 FFT length 288K, Pass1=384, Pass2=768, clm=4.
+[Worker #3 Oct  8 19:48] Test 7, 68000 Lucas-Lehmer in-place iterations of M4980737 using FMA3 FFT length 288K, Pass1=384, Pass2=768, clm=4.
+[Worker #1 Oct  8 19:48] Test 7, 68000 Lucas-Lehmer in-place iterations of M4980737 using FMA3 FFT length 288K, Pass1=384, Pass2=768, clm=4.
+[Worker #2 Oct  8 19:48] Test 7, 68000 Lucas-Lehmer in-place iterations of M4980737 using FMA3 FFT length 288K, Pass1=384, Pass2=768, clm=4.
+[Worker #4 Oct  8 19:49] Test 8, 68000 Lucas-Lehmer in-place iterations of M4980735 using FMA3 FFT length 288K, Pass1=384, Pass2=768, clm=4.
+[Worker #3 Oct  8 19:49] Test 8, 68000 Lucas-Lehmer in-place iterations of M4980735 using FMA3 FFT length 288K, Pass1=384, Pass2=768, clm=4.
+[Worker #1 Oct  8 19:49] Test 8, 68000 Lucas-Lehmer in-place iterations of M4980735 using FMA3 FFT length 288K, Pass1=384, Pass2=768, clm=4.
+[Worker #2 Oct  8 19:49] Test 8, 68000 Lucas-Lehmer in-place iterations of M4980735 using FMA3 FFT length 288K, Pass1=384, Pass2=768, clm=4.
+[Main thread Oct  8 19:51] Stopping all worker windows.
+[Worker #2 Oct  8 19:51] Torture Test completed 7 tests in 10 minutes - 0 errors, 0 warnings.
+[Worker #2 Oct  8 19:51] Worker stopped.
+[Worker #4 Oct  8 19:51] Torture Test completed 7 tests in 10 minutes - 0 errors, 0 warnings.
+[Worker #4 Oct  8 19:51] Worker stopped.
+[Worker #3 Oct  8 19:51] Torture Test completed 7 tests in 10 minutes - 0 errors, 0 warnings.
+[Worker #3 Oct  8 19:51] Worker stopped.
+[Worker #1 Oct  8 19:51] Torture Test completed 7 tests in 10 minutes - 0 errors, 0 warnings.
+[Worker #1 Oct  8 19:51] Worker stopped.
+[Main thread Oct  8 19:51] Execution halted.

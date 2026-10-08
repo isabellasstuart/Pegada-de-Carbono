@@ -1,0 +1,83 @@
+stress-ng: info:  [2870] setting to a 10 mins run per stressor
+stress-ng: info:  [2870] dispatching hogs: 4 cpu
+stress-ng: info:  [2870] note: 4 cpus have scaling governors set to powersave and this may impact performance; setting /sys/devices/system/cpu/cpu*/cpufreq/scaling_governor to 'performance' may improve performance
+stress-ng: info:  [2871] therm: AvGHz MnGHz MxGHz  LdA1  LdA5 LdA15  x86_pk
+stress-ng: info:  [2871] therm:  1.40  1.40  1.40  0.00  0.81  1.27   40.00
+stress-ng: info:  [2871] therm:  3.60  3.60  3.60  0.62  0.91  1.30   53.00
+stress-ng: info:  [2871] therm:  3.60  3.60  3.60  1.14  1.01  1.33   55.00
+stress-ng: info:  [2871] therm:  3.60  3.60  3.60  1.58  1.11  1.36   56.00
+stress-ng: info:  [2871] therm:  3.60  3.60  3.60  1.95  1.21  1.39   57.00
+stress-ng: info:  [2871] therm:  3.60  3.60  3.60  2.27  1.30  1.42   56.00
+stress-ng: info:  [2871] therm:  3.60  3.60  3.60  2.53  1.39  1.45   59.00
+stress-ng: info:  [2871] therm:  3.60  3.60  3.60  2.76  1.48  1.47   59.00
+stress-ng: info:  [2871] therm:  3.60  3.60  3.60  2.95  1.56  1.50   60.00
+stress-ng: info:  [2871] therm:  3.60  3.60  3.60  3.11  1.64  1.53   60.00
+stress-ng: info:  [2871] therm:  3.60  3.60  3.60  3.25  1.72  1.56   61.00
+stress-ng: info:  [2871] therm:  3.60  3.60  3.60  3.37  1.79  1.58   61.00
+stress-ng: info:  [2871] therm:  3.60  3.60  3.60  3.46  1.87  1.61   63.00
+stress-ng: info:  [2871] therm:  3.60  3.60  3.60  3.55  1.94  1.64   63.00
+stress-ng: info:  [2871] therm:  3.60  3.60  3.60  3.62  2.01  1.66   64.00
+stress-ng: info:  [2871] therm:  3.60  3.60  3.60  3.76  2.09  1.69   63.00
+stress-ng: info:  [2871] therm:  3.60  3.60  3.60  3.87  2.17  1.72   64.00
+stress-ng: info:  [2871] therm:  3.60  3.60  3.60  3.96  2.25  1.75   65.00
+stress-ng: info:  [2871] therm:  3.60  3.60  3.60  3.97  2.30  1.78   65.00
+stress-ng: info:  [2871] therm:  3.60  3.60  3.60  3.97  2.36  1.80   66.00
+stress-ng: info:  [2871] therm:  3.60  3.60  3.60  3.98  2.41  1.83   66.00
+stress-ng: info:  [2871] therm:  3.60  3.60  3.60  3.98  2.47  1.85   66.00
+stress-ng: info:  [2871] therm:  3.60  3.60  3.60  3.98  2.52  1.87   66.00
+stress-ng: info:  [2871] therm:  3.60  3.60  3.60  3.99  2.57  1.90   66.00
+stress-ng: info:  [2871] therm:  3.60  3.60  3.60  3.99  2.61  1.92   67.00
+stress-ng: info:  [2871] therm: AvGHz MnGHz MxGHz  LdA1  LdA5 LdA15  x86_pk
+stress-ng: info:  [2871] therm:  3.60  3.60  3.60  3.99  2.66  1.94   67.00
+stress-ng: info:  [2871] therm:  3.60  3.60  3.60  3.99  2.71  1.96   67.00
+stress-ng: info:  [2871] therm:  3.60  3.60  3.60  4.00  2.75  1.99   67.00
+stress-ng: info:  [2871] therm:  3.60  3.60  3.60  4.00  2.79  2.01   67.00
+stress-ng: info:  [2871] therm:  3.60  3.60  3.60  4.00  2.83  2.03   67.00
+stress-ng: info:  [2871] therm:  3.60  3.60  3.60  4.00  2.87  2.05   68.00
+stress-ng: info:  [2871] therm:  3.60  3.60  3.60  4.00  2.91  2.07   68.00
+stress-ng: info:  [2871] therm:  3.60  3.60  3.60  4.00  2.94  2.10   68.00
+stress-ng: info:  [2871] therm:  3.60  3.60  3.60  4.00  2.98  2.12   69.00
+stress-ng: info:  [2871] therm:  3.60  3.60  3.60  4.00  3.01  2.14   70.00
+stress-ng: info:  [2871] therm:  3.60  3.60  3.60  4.00  3.05  2.16   69.00
+stress-ng: info:  [2871] therm:  3.60  3.60  3.60  4.00  3.08  2.18   70.00
+stress-ng: info:  [2871] therm:  3.60  3.60  3.60  4.00  3.11  2.20   70.00
+stress-ng: info:  [2871] therm:  3.60  3.60  3.60  4.00  3.14  2.22   70.00
+stress-ng: info:  [2871] therm:  3.60  3.60  3.60  4.00  3.17  2.24   69.00
+stress-ng: info:  [2871] therm:  3.60  3.60  3.60  4.00  3.20  2.26   70.00
+stress-ng: info:  [2871] therm:  3.60  3.60  3.60  4.00  3.22  2.28   70.00
+stress-ng: info:  [2871] therm:  3.60  3.60  3.60  4.00  3.25  2.29   70.00
+stress-ng: info:  [2871] therm:  3.60  3.60  3.60  4.00  3.27  2.31   71.00
+stress-ng: info:  [2871] therm:  3.60  3.60  3.60  4.00  3.30  2.33   71.00
+stress-ng: info:  [2871] therm:  3.60  3.60  3.60  4.00  3.32  2.35   71.00
+stress-ng: info:  [2871] therm:  3.60  3.60  3.60  4.00  3.34  2.37   71.00
+stress-ng: info:  [2871] therm:  3.60  3.60  3.60  4.00  3.37  2.39   72.00
+stress-ng: info:  [2871] therm:  3.60  3.60  3.60  4.00  3.39  2.40   72.00
+stress-ng: info:  [2871] therm:  3.60  3.60  3.60  4.00  3.41  2.42   72.00
+stress-ng: info:  [2871] therm: AvGHz MnGHz MxGHz  LdA1  LdA5 LdA15  x86_pk
+stress-ng: info:  [2871] therm:  3.60  3.60  3.60  4.00  3.43  2.44   72.00
+stress-ng: info:  [2871] therm:  3.60  3.60  3.60  4.00  3.45  2.46   71.00
+stress-ng: info:  [2871] therm:  3.60  3.60  3.60  4.00  3.47  2.47   72.00
+stress-ng: info:  [2871] therm:  3.60  3.60  3.60  4.00  3.48  2.49   73.00
+stress-ng: info:  [2871] therm:  3.60  3.60  3.60  4.00  3.50  2.51   72.00
+stress-ng: info:  [2871] therm:  3.60  3.60  3.60  4.00  3.52  2.52   73.00
+stress-ng: info:  [2871] therm:  3.60  3.60  3.60  4.00  3.54  2.54   72.00
+stress-ng: info:  [2871] therm:  3.60  3.60  3.60  4.00  3.55  2.56   73.00
+stress-ng: info:  [2871] therm:  3.60  3.60  3.60  4.00  3.57  2.57   74.00
+stress-ng: info:  [2871] therm:  3.60  3.60  3.60  4.00  3.58  2.59   73.00
+stress-ng: info:  [2871] therm:  3.60  3.60  3.60  4.00  3.60  2.60   73.00
+stress-ng: metrc: [2870] stressor       bogo ops real time  usr time  sys time   bogo ops/s     bogo ops/s
+stress-ng: metrc: [2870]                           (secs)    (secs)    (secs)   (real time) (usr+sys time)
+stress-ng: metrc: [2870] cpu             3927897    600.00   2396.88      0.07      6546.50        1638.70
+stress-ng: info:  [2870] cpu:
+stress-ng: info:  [2870]  x86_pkg_temp           73.25 C (346.40 K)
+stress-ng: info:  [2870] for a 600.01s run time:
+stress-ng: info:  [2870]    2400.02s available CPU time
+stress-ng: info:  [2870]    2396.88s user time   ( 99.87%)
+stress-ng: info:  [2870]       0.07s system time (  0.00%)
+stress-ng: info:  [2870]    2396.95s total time  ( 99.87%)
+stress-ng: info:  [2870] load average: 4.00 3.60 2.60
+stress-ng: info:  [2870] skipped: 0
+stress-ng: info:  [2870] passed: 4: cpu (4)
+stress-ng: info:  [2870] failed: 0
+stress-ng: info:  [2870] metrics untrustworthy: 0
+stress-ng: info:  [2870] successful run completed in 10 mins
