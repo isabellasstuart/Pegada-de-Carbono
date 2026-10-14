@@ -1,0 +1,6 @@
+stress-ng: info:  [3226] setting to a 10 mins run per stressor
+stress-ng: info:  [3226] dispatching hogs: 4 cpu
+stress-ng: info:  [3226] note: 4 cpus have scaling governors set to powersave and this may impact performance; setting /sys/devices/system/cpu/cpu*/cpufreq/scaling_governor to 'performance' may improve performance
+stress-ng: info:  [3227] therm: AvGHz MnGHz MxGHz  LdA1  LdA5 LdA15  x86_pk
+stress-ng: info:  [3227] therm:  1.20  1.20  1.20  0.03  1.10  1.38   41.00
+stress-ng: info:  [3227] therm:  3.60  3.60  3.60  0.64  1.19  1.41   57.00

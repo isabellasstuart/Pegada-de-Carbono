@@ -1,0 +1,87 @@
+stress-ng: info:  [2673] setting to a 10 mins run per stressor
+stress-ng: info:  [2673] dispatching hogs: 4 cpu
+stress-ng: info:  [2673] note: 4 cpus have scaling governors set to powersave and this may impact performance; setting /sys/devices/system/cpu/cpu*/cpufreq/scaling_governor to 'performance' may improve performance
+stress-ng: info:  [2674] therm: AvGHz MnGHz MxGHz  LdA1  LdA5 LdA15  x86_pk
+stress-ng: info:  [2674] therm:  1.20  1.20  1.20  0.44  0.58  0.31   32.00
+stress-ng: info:  [2675] cpu: for stable load results, select a specific cpu stress method with --cpu-method other than 'all'
+stress-ng: info:  [2676] cpu: for stable load results, select a specific cpu stress method with --cpu-method other than 'all'
+stress-ng: info:  [2677] cpu: for stable load results, select a specific cpu stress method with --cpu-method other than 'all'
+stress-ng: info:  [2678] cpu: for stable load results, select a specific cpu stress method with --cpu-method other than 'all'
+stress-ng: info:  [2674] therm:  1.10  1.10  1.10  0.69  0.63  0.33   33.00
+stress-ng: info:  [2674] therm:  1.10  1.10  1.10  0.91  0.68  0.35   33.00
+stress-ng: info:  [2674] therm:  0.98  0.80  1.50  1.09  0.72  0.37   32.00
+stress-ng: info:  [2674] therm:  0.85  0.80  1.00  1.46  0.81  0.40   32.00
+stress-ng: info:  [2674] therm:  1.15  0.80  1.50  1.23  0.79  0.40   32.00
+stress-ng: info:  [2674] therm:  0.92  0.80  1.09  1.66  0.89  0.44   32.00
+stress-ng: info:  [2674] therm:  1.84  1.64  1.94  1.72  0.93  0.45   32.00
+stress-ng: info:  [2674] therm:  1.20  1.20  1.20  1.99  1.01  0.49   33.00
+stress-ng: info:  [2674] therm:  0.92  0.80  1.29  2.30  1.11  0.52   33.00
+stress-ng: info:  [2674] therm:  1.11  1.10  1.12  1.95  1.08  0.52   33.00
+stress-ng: info:  [2674] therm:  1.10  1.10  1.10  1.94  1.11  0.53   33.00
+stress-ng: info:  [2674] therm:  0.99  0.80  1.57  1.94  1.13  0.55   32.00
+stress-ng: info:  [2674] therm:  1.10  1.10  1.10  2.26  1.23  0.59   33.00
+stress-ng: info:  [2674] therm:  1.10  1.10  1.10  2.20  1.25  0.60   33.00
+stress-ng: info:  [2674] therm:  0.85  0.80  1.00  2.19  1.28  0.62   32.00
+stress-ng: info:  [2674] therm:  1.10  1.10  1.10  1.85  1.24  0.61   33.00
+stress-ng: info:  [2674] therm:  1.10  1.10  1.10  1.86  1.26  0.62   33.00
+stress-ng: info:  [2674] therm:  2.10  1.90  2.30  1.87  1.29  0.64   34.00
+stress-ng: info:  [2674] therm:  1.10  1.10  1.10  1.66  1.26  0.64   33.00
+stress-ng: info:  [2674] therm:  1.10  1.10  1.10  2.02  1.35  0.67   33.00
+stress-ng: info:  [2674] therm:  1.06  0.80  1.43  1.71  1.31  0.67   32.00
+stress-ng: info:  [2674] therm:  0.94  0.80  1.36  1.45  1.26  0.66   32.00
+stress-ng: info:  [2674] therm:  1.02  0.80  1.35  1.60  1.30  0.68   32.00
+stress-ng: info:  [2674] therm:  1.10  1.10  1.10  1.97  1.39  0.71   33.00
+stress-ng: info:  [2674] therm: AvGHz MnGHz MxGHz  LdA1  LdA5 LdA15  x86_pk
+stress-ng: info:  [2674] therm:  1.10  1.10  1.10  1.99  1.41  0.73   33.00
+stress-ng: info:  [2674] therm:  1.10  1.10  1.10  1.68  1.37  0.72   34.00
+stress-ng: info:  [2674] therm:  1.57  0.80  1.90  1.74  1.39  0.73   32.00
+stress-ng: info:  [2674] therm:  1.10  1.10  1.10  1.47  1.34  0.73   33.00
+stress-ng: info:  [2674] therm:  1.26  0.80  1.85  1.25  1.30  0.72   32.00
+stress-ng: info:  [2674] therm:  0.94  0.80  1.38  1.20  1.29  0.72   32.00
+stress-ng: info:  [2674] therm:  0.85  0.80  1.00  1.31  1.31  0.74   34.00
+stress-ng: info:  [2674] therm:  0.85  0.80  1.00  1.73  1.40  0.77   33.00
+stress-ng: info:  [2674] therm:  1.10  1.10  1.10  1.78  1.42  0.78   34.00
+stress-ng: info:  [2674] therm:  1.10  1.10  1.10  1.80  1.44  0.80   33.00
+stress-ng: info:  [2674] therm:  1.18  1.18  1.18  1.84  1.46  0.81   33.00
+stress-ng: info:  [2674] therm:  0.91  0.80  1.23  1.86  1.47  0.82   33.00
+stress-ng: info:  [2674] therm:  1.10  1.10  1.10  2.19  1.56  0.86   33.00
+stress-ng: info:  [2674] therm:  1.10  1.10  1.10  1.85  1.50  0.85   34.00
+stress-ng: info:  [2674] therm:  0.85  0.80  1.00  2.18  1.59  0.88   33.00
+stress-ng: info:  [2674] therm:  0.90  0.80  1.00  2.17  1.60  0.89   32.00
+stress-ng: info:  [2674] therm:  1.10  1.10  1.10  2.15  1.62  0.91   33.00
+stress-ng: info:  [2674] therm:  1.10  1.10  1.10  1.82  1.56  0.90   34.00
+stress-ng: info:  [2674] therm:  0.90  0.80  1.00  1.86  1.58  0.91   33.00
+stress-ng: info:  [2674] therm:  1.10  1.10  1.10  1.87  1.59  0.92   33.00
+stress-ng: info:  [2674] therm:  0.88  0.80  1.10  1.88  1.60  0.93   33.00
+stress-ng: info:  [2674] therm:  1.10  1.10  1.10  1.59  1.55  0.92   33.00
+stress-ng: info:  [2674] therm:  0.98  0.80  1.50  1.64  1.56  0.93   32.00
+stress-ng: info:  [2674] therm:  1.10  1.10  1.10  1.39  1.51  0.92   34.00
+stress-ng: info:  [2674] therm:  1.10  1.10  1.10  1.47  1.53  0.93   34.00
+stress-ng: info:  [2674] therm: AvGHz MnGHz MxGHz  LdA1  LdA5 LdA15  x86_pk
+stress-ng: info:  [2674] therm:  1.14  1.09  1.29  1.24  1.48  0.92   33.00
+stress-ng: info:  [2674] therm:  1.10  1.10  1.10  1.35  1.49  0.93   34.00
+stress-ng: info:  [2674] therm:  0.95  0.80  1.10  1.46  1.51  0.94   33.00
+stress-ng: info:  [2674] therm:  1.76  1.76  1.76  1.23  1.46  0.93   34.00
+stress-ng: info:  [2674] therm:  1.03  0.80  1.70  1.36  1.48  0.94   33.00
+stress-ng: info:  [2674] therm:  0.98  0.80  1.50  1.48  1.50  0.96   34.00
+stress-ng: info:  [2674] therm:  1.10  1.10  1.10  1.57  1.51  0.97   34.00
+stress-ng: info:  [2674] therm:  0.92  0.80  1.10  1.62  1.53  0.98   32.00
+stress-ng: info:  [2674] therm:  1.00  0.80  1.20  1.67  1.54  0.99   33.00
+stress-ng: info:  [2674] therm:  2.70  2.70  2.70  2.03  1.63  1.02   38.00
+stress-ng: info:  [2674] therm:  3.00  0.80  3.80  2.10  1.65  1.04   47.00
+stress-ng: metrc: [2673] stressor       bogo ops real time  usr time  sys time   bogo ops/s     bogo ops/s
+stress-ng: metrc: [2673]                           (secs)    (secs)    (secs)   (real time) (usr+sys time)
+stress-ng: metrc: [2673] cpu              640580    600.01   1200.07      0.34      1067.62         533.64
+stress-ng: info:  [2673] cpu:
+stress-ng: info:  [2673]  x86_pkg_temp           43.00 C (316.15 K)
+stress-ng: info:  [2673] for a 600.04s run time:
+stress-ng: info:  [2673]    2400.14s available CPU time
+stress-ng: info:  [2673]    1200.07s user time   ( 50.00%)
+stress-ng: info:  [2673]       0.33s system time (  0.01%)
+stress-ng: info:  [2673]    1200.40s total time  ( 50.01%)
+stress-ng: info:  [2673] load average: 2.10 1.65 1.04
+stress-ng: info:  [2673] skipped: 0
+stress-ng: info:  [2673] passed: 4: cpu (4)
+stress-ng: info:  [2673] failed: 0
+stress-ng: info:  [2673] metrics untrustworthy: 0
+stress-ng: info:  [2673] successful run completed in 10 mins

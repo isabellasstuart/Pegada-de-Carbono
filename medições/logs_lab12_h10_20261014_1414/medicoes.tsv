@@ -1,0 +1,3 @@
+Etapa	Máquina	Laboratório	Data	Início (epoch)	Fim (epoch)	Duração (s)	Consumo (kWh)	Potência mínima (W)	Potência máxima (W)	Potência atual (W)	Tensão (V)	Corrente (A)	Temp. CPU máx. na sessão (°C)	CO2e (g)
+stress-ng CPU 50% - 10 min	h10	lab12	14/10/2026	1791998143	1791998743	600	'0.003	18.9	37.3	17.6	127.3	'0.230	61.0	NA
+stress-ng CPU 75% - 10 min	h10	lab12	14/10/2026	1791999008	1791999608	600	'0.005	42.7	46.9	46.9	127	'0.357	75.0	NA

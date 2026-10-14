@@ -1,0 +1,83 @@
+stress-ng: info:  [2751] setting to a 10 mins run per stressor
+stress-ng: info:  [2751] dispatching hogs: 4 cpu
+stress-ng: info:  [2751] note: 4 cpus have scaling governors set to powersave and this may impact performance; setting /sys/devices/system/cpu/cpu*/cpufreq/scaling_governor to 'performance' may improve performance
+stress-ng: info:  [2752] therm: AvGHz MnGHz MxGHz  LdA1  LdA5 LdA15  x86_pk
+stress-ng: info:  [2752] therm:  1.59  1.57  1.60  0.01  0.91  1.32   43.00
+stress-ng: info:  [2752] therm:  3.60  3.60  3.60  0.62  1.01  1.35   59.00
+stress-ng: info:  [2752] therm:  3.60  3.60  3.60  1.14  1.11  1.37   61.00
+stress-ng: info:  [2752] therm:  3.60  3.60  3.60  1.58  1.21  1.40   62.00
+stress-ng: info:  [2752] therm:  3.60  3.60  3.60  1.96  1.30  1.43   62.00
+stress-ng: info:  [2752] therm:  3.60  3.60  3.60  2.27  1.39  1.46   63.00
+stress-ng: info:  [2752] therm:  3.60  3.60  3.60  2.54  1.48  1.49   65.00
+stress-ng: info:  [2752] therm:  3.60  3.60  3.60  2.76  1.56  1.51   65.00
+stress-ng: info:  [2752] therm:  3.60  3.60  3.60  2.95  1.64  1.54   66.00
+stress-ng: info:  [2752] therm:  3.60  3.60  3.60  3.11  1.72  1.57   66.00
+stress-ng: info:  [2752] therm:  3.60  3.60  3.60  3.25  1.79  1.59   67.00
+stress-ng: info:  [2752] therm:  3.60  3.60  3.60  3.37  1.87  1.62   69.00
+stress-ng: info:  [2752] therm:  3.60  3.60  3.60  3.46  1.94  1.65   69.00
+stress-ng: info:  [2752] therm:  3.60  3.60  3.60  3.55  2.01  1.67   70.00
+stress-ng: info:  [2752] therm:  3.60  3.60  3.60  3.62  2.07  1.70   70.00
+stress-ng: info:  [2752] therm:  3.60  3.60  3.60  3.68  2.14  1.72   70.00
+stress-ng: info:  [2752] therm:  3.60  3.60  3.60  3.81  2.21  1.75   70.00
+stress-ng: info:  [2752] therm:  3.60  3.60  3.60  3.84  2.27  1.78   71.00
+stress-ng: info:  [2752] therm:  3.60  3.60  3.60  3.86  2.33  1.80   71.00
+stress-ng: info:  [2752] therm:  3.60  3.60  3.60  3.88  2.39  1.83   73.00
+stress-ng: info:  [2752] therm:  3.60  3.60  3.60  3.90  2.44  1.85   71.00
+stress-ng: info:  [2752] therm:  3.60  3.60  3.60  3.92  2.49  1.87   72.00
+stress-ng: info:  [2752] therm:  3.60  3.60  3.60  3.93  2.54  1.90   72.00
+stress-ng: info:  [2752] therm:  3.60  3.60  3.60  3.94  2.59  1.92   73.00
+stress-ng: info:  [2752] therm:  3.60  3.60  3.60  3.95  2.64  1.94   72.00
+stress-ng: info:  [2752] therm: AvGHz MnGHz MxGHz  LdA1  LdA5 LdA15  x86_pk
+stress-ng: info:  [2752] therm:  3.60  3.60  3.60  3.96  2.68  1.97   73.00
+stress-ng: info:  [2752] therm:  3.60  3.60  3.60  3.97  2.73  1.99   74.00
+stress-ng: info:  [2752] therm:  3.60  3.60  3.60  3.97  2.77  2.01   74.00
+stress-ng: info:  [2752] therm:  3.60  3.60  3.60  3.98  2.81  2.03   74.00
+stress-ng: info:  [2752] therm:  3.60  3.60  3.60  3.98  2.85  2.05   74.00
+stress-ng: info:  [2752] therm:  3.60  3.60  3.60  3.98  2.89  2.07   74.00
+stress-ng: info:  [2752] therm:  3.60  3.60  3.60  3.99  2.93  2.10   74.00
+stress-ng: info:  [2752] therm:  3.60  3.60  3.60  3.99  2.96  2.12   75.00
+stress-ng: info:  [2752] therm:  3.60  3.60  3.60  3.99  3.00  2.14   75.00
+stress-ng: info:  [2752] therm:  3.60  3.60  3.60  3.99  3.03  2.16   74.00
+stress-ng: info:  [2752] therm:  3.60  3.60  3.60  4.00  3.06  2.18   73.00
+stress-ng: info:  [2752] therm:  3.60  3.60  3.60  4.00  3.09  2.20   73.00
+stress-ng: info:  [2752] therm:  3.60  3.60  3.60  4.00  3.12  2.22   73.00
+stress-ng: info:  [2752] therm:  3.60  3.60  3.60  4.00  3.15  2.24   73.00
+stress-ng: info:  [2752] therm:  3.60  3.60  3.60  4.00  3.18  2.26   73.00
+stress-ng: info:  [2752] therm:  3.60  3.60  3.60  4.00  3.21  2.28   72.00
+stress-ng: info:  [2752] therm:  3.60  3.60  3.60  4.00  3.23  2.29   72.00
+stress-ng: info:  [2752] therm:  3.60  3.60  3.60  4.00  3.26  2.31   72.00
+stress-ng: info:  [2752] therm:  3.60  3.60  3.60  4.00  3.29  2.33   73.00
+stress-ng: info:  [2752] therm:  3.60  3.60  3.60  4.00  3.31  2.35   73.00
+stress-ng: info:  [2752] therm:  3.60  3.60  3.60  4.00  3.33  2.37   73.00
+stress-ng: info:  [2752] therm:  3.60  3.60  3.60  4.00  3.36  2.39   72.00
+stress-ng: info:  [2752] therm:  3.60  3.60  3.60  4.16  3.41  2.42   72.00
+stress-ng: info:  [2752] therm:  3.60  3.60  3.60  4.13  3.43  2.43   73.00
+stress-ng: info:  [2752] therm:  3.60  3.60  3.60  4.11  3.45  2.45   72.00
+stress-ng: info:  [2752] therm: AvGHz MnGHz MxGHz  LdA1  LdA5 LdA15  x86_pk
+stress-ng: info:  [2752] therm:  3.60  3.60  3.60  4.10  3.47  2.47   71.00
+stress-ng: info:  [2752] therm:  3.60  3.60  3.60  4.08  3.49  2.48   73.00
+stress-ng: info:  [2752] therm:  3.60  3.60  3.60  4.07  3.50  2.50   73.00
+stress-ng: info:  [2752] therm:  3.60  3.60  3.60  4.06  3.52  2.52   72.00
+stress-ng: info:  [2752] therm:  3.60  3.60  3.60  4.05  3.54  2.53   72.00
+stress-ng: info:  [2752] therm:  3.60  3.60  3.60  4.04  3.55  2.55   73.00
+stress-ng: info:  [2752] therm:  3.60  3.60  3.60  4.03  3.57  2.57   72.00
+stress-ng: info:  [2752] therm:  3.60  3.60  3.60  4.03  3.58  2.58   71.00
+stress-ng: info:  [2752] therm:  3.60  3.60  3.60  4.02  3.60  2.60   73.00
+stress-ng: info:  [2752] therm:  3.60  3.60  3.60  4.02  3.61  2.61   72.00
+stress-ng: info:  [2752] therm:  3.60  3.60  3.60  4.02  3.62  2.63   73.00
+stress-ng: metrc: [2751] stressor       bogo ops real time  usr time  sys time   bogo ops/s     bogo ops/s
+stress-ng: metrc: [2751]                           (secs)    (secs)    (secs)   (real time) (usr+sys time)
+stress-ng: metrc: [2751] cpu             3927363    600.00   2396.34      0.10      6545.60        1638.83
+stress-ng: info:  [2751] cpu:
+stress-ng: info:  [2751]  x86_pkg_temp           72.75 C (345.90 K)
+stress-ng: info:  [2751] for a 600.00s run time:
+stress-ng: info:  [2751]    2400.02s available CPU time
+stress-ng: info:  [2751]    2396.34s user time   ( 99.85%)
+stress-ng: info:  [2751]       0.09s system time (  0.00%)
+stress-ng: info:  [2751]    2396.43s total time  ( 99.85%)
+stress-ng: info:  [2751] load average: 4.02 3.62 2.63
+stress-ng: info:  [2751] skipped: 0
+stress-ng: info:  [2751] passed: 4: cpu (4)
+stress-ng: info:  [2751] failed: 0
+stress-ng: info:  [2751] metrics untrustworthy: 0
+stress-ng: info:  [2751] successful run completed in 10 mins

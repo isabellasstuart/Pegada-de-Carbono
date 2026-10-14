@@ -1,0 +1,4 @@
+14/10/2026 15:13:11 | stress-ng CPU 50% - 10 min | pulada pelo usuário
+14/10/2026 15:13:12 | stress-ng CPU 75% - 10 min | pulada pelo usuário
+14/10/2026 15:13:13 | stress-ng CPU 100% - 10 min | pulada pelo usuário
+14/10/2026 15:13:41 | stress-ng CPU + RAM - 10 min | pulada pelo usuário

@@ -1,0 +1,2 @@
+Etapa	Máquina	Laboratório	Data	Início (epoch)	Fim (epoch)	Duração (s)	Consumo (kWh)	Potência mínima (W)	Potência máxima (W)	Potência atual (W)	Tensão (V)	Corrente (A)	Temp. CPU máx. na sessão (°C)	CO2e (g)
+mprime (Torture Test) - 10 min	h11	lab12	14/10/2026	1792001722	1792002322	600	'0.009	72.8	85.1	74	125	'0.574	92.0	NA
