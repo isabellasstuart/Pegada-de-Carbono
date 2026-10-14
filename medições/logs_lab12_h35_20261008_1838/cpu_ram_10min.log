@@ -1,0 +1,88 @@
+stress-ng: info:  [3108] setting to a 10 mins run per stressor
+stress-ng: info:  [3108] dispatching hogs: 4 cpu, 2 vm
+stress-ng: info:  [3108] note: 4 cpus have scaling governors set to powersave and this may impact performance; setting /sys/devices/system/cpu/cpu*/cpufreq/scaling_governor to 'performance' may improve performance
+stress-ng: info:  [3109] therm: AvGHz MnGHz MxGHz  LdA1  LdA5 LdA15  x86_pk
+stress-ng: info:  [3109] therm:  1.90  1.27  2.98  0.00  0.76  1.59   40.00
+stress-ng: info:  [3114] vm: using 1.56GB per stressor instance (total 3.11GB of 3.89GB available memory)
+stress-ng: info:  [3109] therm:  3.60  3.60  3.60  0.92  0.93  1.64   57.00
+stress-ng: info:  [3109] therm:  3.60  3.60  3.60  1.70  1.10  1.69   58.00
+stress-ng: info:  [3109] therm:  3.60  3.60  3.60  2.36  1.26  1.73   58.00
+stress-ng: info:  [3109] therm:  3.60  3.60  3.60  2.92  1.42  1.78   63.00
+stress-ng: info:  [3109] therm:  3.60  3.60  3.60  3.40  1.57  1.82   65.00
+stress-ng: info:  [3109] therm:  3.60  3.60  3.60  3.80  1.71  1.87   62.00
+stress-ng: info:  [3109] therm:  3.60  3.60  3.60  4.14  1.85  1.91   62.00
+stress-ng: info:  [3109] therm:  3.60  3.60  3.60  4.42  1.99  1.96   64.00
+stress-ng: info:  [3109] therm:  3.60  3.60  3.60  4.67  2.12  2.00   65.00
+stress-ng: info:  [3109] therm:  3.60  3.60  3.60  4.87  2.25  2.04   65.00
+stress-ng: info:  [3109] therm:  3.60  3.60  3.60  5.05  2.38  2.09   65.00
+stress-ng: info:  [3109] therm:  3.60  3.60  3.60  5.19  2.50  2.13   66.00
+stress-ng: info:  [3109] therm:  3.60  3.60  3.60  5.32  2.61  2.17   66.00
+stress-ng: info:  [3109] therm:  3.60  3.60  3.60  5.42  2.72  2.21   66.00
+stress-ng: info:  [3109] therm:  3.60  3.60  3.60  5.51  2.83  2.25   67.00
+stress-ng: info:  [3109] therm:  3.60  3.60  3.60  5.59  2.94  2.30   67.00
+stress-ng: info:  [3109] therm:  3.60  3.60  3.60  5.65  3.04  2.34   67.00
+stress-ng: info:  [3109] therm:  3.60  3.60  3.60  5.71  3.14  2.38   68.00
+stress-ng: info:  [3109] therm:  3.60  3.60  3.60  5.75  3.23  2.41   67.00
+stress-ng: info:  [3116] vm: x86 movdiri instruction not supported, dropping back to plain 64 bit writes
+stress-ng: info:  [3109] therm:  3.60  3.60  3.60  5.79  3.32  2.45   69.00
+stress-ng: info:  [3109] therm:  3.60  3.60  3.60  5.82  3.41  2.49   69.00
+stress-ng: info:  [3109] therm:  3.60  3.60  3.60  5.85  3.50  2.53   73.00
+stress-ng: info:  [3109] therm:  3.60  3.60  3.60  5.87  3.58  2.57   70.00
+stress-ng: info:  [3109] therm:  3.60  3.60  3.60  5.89  3.66  2.60   70.00
+stress-ng: info:  [3109] therm: AvGHz MnGHz MxGHz  LdA1  LdA5 LdA15  x86_pk
+stress-ng: info:  [3109] therm:  3.60  3.60  3.60  5.91  3.74  2.64   73.00
+stress-ng: info:  [3109] therm:  3.60  3.60  3.60  5.92  3.81  2.68   71.00
+stress-ng: info:  [3109] therm:  3.60  3.60  3.60  5.94  3.89  2.71   71.00
+stress-ng: info:  [3109] therm:  3.60  3.60  3.60  5.95  3.96  2.75   71.00
+stress-ng: info:  [3109] therm:  3.60  3.60  3.60  5.96  4.02  2.79   73.00
+stress-ng: info:  [3109] therm:  3.60  3.60  3.60  5.96  4.09  2.82   72.00
+stress-ng: info:  [3109] therm:  3.60  3.60  3.60  5.97  4.15  2.85   70.00
+stress-ng: info:  [3109] therm:  3.60  3.60  3.60  5.97  4.21  2.89   72.00
+stress-ng: info:  [3109] therm:  3.60  3.60  3.60  5.98  4.27  2.92   72.00
+stress-ng: info:  [3109] therm:  3.60  3.60  3.60  5.98  4.33  2.96   71.00
+stress-ng: info:  [3109] therm:  3.60  3.60  3.60  5.99  4.38  2.99   72.00
+stress-ng: info:  [3109] therm:  3.60  3.60  3.60  5.99  4.44  3.02   71.00
+stress-ng: info:  [3109] therm:  3.60  3.60  3.60  5.99  4.49  3.05   73.00
+stress-ng: info:  [3109] therm:  3.60  3.60  3.60  5.99  4.54  3.09   75.00
+stress-ng: info:  [3109] therm:  3.60  3.60  3.60  5.99  4.59  3.12   76.00
+stress-ng: info:  [3109] therm:  3.60  3.60  3.60  6.00  4.64  3.15   77.00
+stress-ng: info:  [3109] therm:  3.60  3.60  3.60  6.00  4.68  3.18   77.00
+stress-ng: info:  [3109] therm:  3.60  3.60  3.60  6.00  4.73  3.21   77.00
+stress-ng: info:  [3109] therm:  3.60  3.60  3.60  6.08  4.78  3.25   74.00
+stress-ng: info:  [3109] therm:  3.60  3.60  3.60  6.07  4.83  3.28   73.00
+stress-ng: info:  [3109] therm:  3.60  3.60  3.60  6.06  4.86  3.31   73.00
+stress-ng: info:  [3109] therm:  3.60  3.60  3.60  6.05  4.90  3.34   70.00
+stress-ng: info:  [3109] therm:  3.60  3.60  3.60  6.04  4.94  3.37   72.00
+stress-ng: info:  [3109] therm:  3.60  3.60  3.60  6.03  4.97  3.39   73.00
+stress-ng: info:  [3109] therm:  3.60  3.60  3.60  6.17  5.04  3.43   72.00
+stress-ng: info:  [3109] therm: AvGHz MnGHz MxGHz  LdA1  LdA5 LdA15  x86_pk
+stress-ng: info:  [3109] therm:  3.60  3.60  3.60  6.15  5.07  3.46   71.00
+stress-ng: info:  [3109] therm:  3.60  3.60  3.60  6.12  5.10  3.49   72.00
+stress-ng: info:  [3109] therm:  3.60  3.60  3.60  6.10  5.13  3.52   73.00
+stress-ng: info:  [3109] therm:  3.60  3.60  3.60  6.09  5.16  3.54   73.00
+stress-ng: info:  [3109] therm:  3.60  3.60  3.60  6.07  5.19  3.57   71.00
+stress-ng: info:  [3109] therm:  3.60  3.60  3.60  6.06  5.22  3.60   74.00
+stress-ng: info:  [3109] therm:  3.60  3.60  3.60  6.05  5.24  3.62   72.00
+stress-ng: info:  [3109] therm:  3.60  3.60  3.60  6.04  5.27  3.65   73.00
+stress-ng: info:  [3109] therm:  3.60  3.60  3.60  6.04  5.29  3.67   76.00
+stress-ng: info:  [3109] therm:  3.60  3.60  3.60  6.03  5.32  3.70   75.00
+stress-ng: info:  [3109] therm:  3.60  3.60  3.60  6.02  5.34  3.73   77.00
+stress-ng: metrc: [3108] stressor       bogo ops real time  usr time  sys time   bogo ops/s     bogo ops/s
+stress-ng: metrc: [3108]                           (secs)    (secs)    (secs)   (real time) (usr+sys time)
+stress-ng: metrc: [3108] cpu             2649255    600.00   1620.47      0.02      4415.42        1634.85
+stress-ng: metrc: [3108] vm             65373786    601.17    660.54    118.50    108743.55       83916.06
+stress-ng: info:  [3108] cpu:
+stress-ng: info:  [3108]  x86_pkg_temp           75.50 C (348.65 K)
+stress-ng: info:  [3108] vm:
+stress-ng: info:  [3108]  x86_pkg_temp           73.00 C (346.15 K)
+stress-ng: info:  [3108] for a 602.00s run time:
+stress-ng: info:  [3108]    2407.99s available CPU time
+stress-ng: info:  [3108]    2281.00s user time   ( 94.73%)
+stress-ng: info:  [3108]     118.52s system time (  4.92%)
+stress-ng: info:  [3108]    2399.52s total time  ( 99.65%)
+stress-ng: info:  [3108] load average: 5.62 5.27 3.71
+stress-ng: info:  [3108] skipped: 0
+stress-ng: info:  [3108] passed: 6: cpu (4) vm (2)
+stress-ng: info:  [3108] failed: 0
+stress-ng: info:  [3108] metrics untrustworthy: 0
+stress-ng: info:  [3108] successful run completed in 10 mins 2.00 sec

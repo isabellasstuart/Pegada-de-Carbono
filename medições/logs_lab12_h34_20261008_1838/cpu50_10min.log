@@ -1,0 +1,87 @@
+stress-ng: info:  [2213] setting to a 10 mins run per stressor
+stress-ng: info:  [2213] dispatching hogs: 4 cpu
+stress-ng: info:  [2213] note: 4 cpus have scaling governors set to powersave and this may impact performance; setting /sys/devices/system/cpu/cpu*/cpufreq/scaling_governor to 'performance' may improve performance
+stress-ng: info:  [2214] therm: AvGHz MnGHz MxGHz  LdA1  LdA5 LdA15  x86_pk
+stress-ng: info:  [2214] therm:  1.60  1.60  1.60  0.05  0.17  0.09   34.00
+stress-ng: info:  [2215] cpu: for stable load results, select a specific cpu stress method with --cpu-method other than 'all'
+stress-ng: info:  [2216] cpu: for stable load results, select a specific cpu stress method with --cpu-method other than 'all'
+stress-ng: info:  [2217] cpu: for stable load results, select a specific cpu stress method with --cpu-method other than 'all'
+stress-ng: info:  [2218] cpu: for stable load results, select a specific cpu stress method with --cpu-method other than 'all'
+stress-ng: info:  [2214] therm:  1.00  0.80  1.60  0.52  0.26  0.12   35.00
+stress-ng: info:  [2214] therm:  1.20  0.80  1.60  0.98  0.37  0.16   35.00
+stress-ng: info:  [2214] therm:  1.60  1.60  1.60  0.98  0.39  0.17   36.00
+stress-ng: info:  [2214] therm:  1.60  1.60  1.60  1.20  0.46  0.19   36.00
+stress-ng: info:  [2214] therm:  2.97  0.80  3.70  1.40  0.53  0.22   43.00
+stress-ng: info:  [2214] therm:  2.97  0.80  3.70  1.41  0.56  0.23   46.00
+stress-ng: info:  [2214] therm:  1.60  1.60  1.60  1.74  0.66  0.27   38.00
+stress-ng: info:  [2214] therm:  1.60  1.60  1.60  2.09  0.77  0.31   38.00
+stress-ng: info:  [2214] therm:  1.40  0.80  1.60  2.22  0.84  0.34   38.00
+stress-ng: info:  [2214] therm:  1.60  1.60  1.60  2.18  0.88  0.36   39.00
+stress-ng: info:  [2214] therm:  0.80  0.80  0.80  2.14  0.92  0.37   36.00
+stress-ng: info:  [2214] therm:  1.10  0.80  2.00  2.10  0.95  0.39   36.00
+stress-ng: info:  [2214] therm:  1.40  0.80  1.60  2.07  0.99  0.41   37.00
+stress-ng: info:  [2214] therm:  1.00  0.80  1.60  2.29  1.07  0.44   36.00
+stress-ng: info:  [2214] therm:  0.99  0.80  1.58  2.09  1.07  0.45   36.00
+stress-ng: info:  [2214] therm:  3.70  3.70  3.70  1.92  1.06  0.46   47.00
+stress-ng: info:  [2214] therm:  3.70  3.67  3.74  2.08  1.13  0.48   50.00
+stress-ng: info:  [2214] therm:  2.23  0.80  2.70  2.00  1.14  0.49   45.00
+stress-ng: info:  [2214] therm:  1.60  1.60  1.60  2.23  1.22  0.53   39.00
+stress-ng: info:  [2214] therm:  3.50  3.50  3.50  2.58  1.33  0.57   45.00
+stress-ng: info:  [2214] therm:  1.20  0.80  1.60  2.58  1.37  0.59   38.00
+stress-ng: info:  [2214] therm:  1.40  0.80  1.60  2.50  1.39  0.61   38.00
+stress-ng: info:  [2214] therm:  3.62  3.62  3.63  2.28  1.37  0.61   49.00
+stress-ng: info:  [2214] therm:  1.40  0.80  1.60  2.15  1.38  0.62   39.00
+stress-ng: info:  [2214] therm: AvGHz MnGHz MxGHz  LdA1  LdA5 LdA15  x86_pk
+stress-ng: info:  [2214] therm:  1.60  1.60  1.60  2.11  1.40  0.63   41.00
+stress-ng: info:  [2214] therm:  2.97  0.80  3.70  2.10  1.42  0.65   49.00
+stress-ng: info:  [2214] therm:  2.27  0.80  3.80  2.08  1.44  0.66   48.00
+stress-ng: info:  [2214] therm:  2.98  0.80  3.74  2.16  1.47  0.68   50.00
+stress-ng: info:  [2214] therm:  3.70  3.70  3.70  2.13  1.49  0.70   53.00
+stress-ng: info:  [2214] therm:  2.97  0.80  3.70  2.04  1.49  0.71   55.00
+stress-ng: info:  [2214] therm:  0.80  0.80  0.80  2.10  1.52  0.73   41.00
+stress-ng: info:  [2214] therm:  1.60  1.60  1.60  2.24  1.57  0.75   44.00
+stress-ng: info:  [2214] therm:  2.97  0.80  3.70  2.19  1.59  0.77   51.00
+stress-ng: info:  [2214] therm:  3.70  3.70  3.70  2.16  1.60  0.78   53.00
+stress-ng: info:  [2214] therm:  2.97  0.80  3.70  2.36  1.66  0.81   55.00
+stress-ng: info:  [2214] therm:  3.71  3.64  3.78  2.15  1.64  0.81   56.00
+stress-ng: info:  [2214] therm:  1.55  0.80  3.80  2.19  1.67  0.83   53.00
+stress-ng: info:  [2214] therm:  1.40  0.80  1.60  2.39  1.73  0.86   42.00
+stress-ng: info:  [2214] therm:  3.00  0.80  3.79  2.10  1.69  0.86   55.00
+stress-ng: info:  [2214] therm:  3.71  3.67  3.77  2.09  1.70  0.87   46.00
+stress-ng: info:  [2214] therm:  3.67  3.60  3.70  2.00  1.69  0.88   57.00
+stress-ng: info:  [2214] therm:  3.00  0.80  3.80  2.08  1.72  0.89   52.00
+stress-ng: info:  [2214] therm:  3.70  3.70  3.70  2.07  1.73  0.91   55.00
+stress-ng: info:  [2214] therm:  2.97  0.80  3.70  1.99  1.72  0.91   56.00
+stress-ng: info:  [2214] therm:  3.00  0.80  3.80  2.07  1.75  0.93   57.00
+stress-ng: info:  [2214] therm:  1.40  0.80  1.60  1.97  1.74  0.94   45.00
+stress-ng: info:  [2214] therm:  1.60  1.60  1.60  1.99  1.75  0.95   45.00
+stress-ng: info:  [2214] therm:  1.00  0.80  1.60  1.98  1.76  0.96   42.00
+stress-ng: info:  [2214] therm:  1.60  1.60  1.60  2.14  1.80  0.98   44.00
+stress-ng: info:  [2214] therm: AvGHz MnGHz MxGHz  LdA1  LdA5 LdA15  x86_pk
+stress-ng: info:  [2214] therm:  2.70  2.70  2.70  2.28  1.84  1.00   48.00
+stress-ng: info:  [2214] therm:  1.60  1.60  1.60  2.55  1.91  1.04   44.00
+stress-ng: info:  [2214] therm:  2.27  0.80  3.80  2.46  1.91  1.05   53.00
+stress-ng: info:  [2214] therm:  3.70  3.70  3.70  2.47  1.93  1.06   54.00
+stress-ng: info:  [2214] therm:  3.67  3.60  3.70  2.47  1.95  1.08   56.00
+stress-ng: info:  [2214] therm:  3.68  3.60  3.70  2.56  1.99  1.10   53.00
+stress-ng: info:  [2214] therm:  2.97  0.80  3.70  2.39  1.97  1.10   55.00
+stress-ng: info:  [2214] therm:  3.72  3.70  3.80  2.34  1.97  1.11   55.00
+stress-ng: info:  [2214] therm:  2.27  0.80  3.79  2.51  2.02  1.14   53.00
+stress-ng: info:  [2214] therm:  1.00  0.80  1.60  2.21  1.97  1.13   44.00
+stress-ng: info:  [2214] therm:  1.00  0.80  1.60  2.40  2.02  1.16   44.00
+stress-ng: metrc: [2213] stressor       bogo ops real time  usr time  sys time   bogo ops/s     bogo ops/s
+stress-ng: metrc: [2213]                           (secs)    (secs)    (secs)   (real time) (usr+sys time)
+stress-ng: metrc: [2213] cpu             1482579    600.00   1200.11      0.39      2470.96        1234.97
+stress-ng: info:  [2213] cpu:
+stress-ng: info:  [2213]  x86_pkg_temp           44.25 C (317.40 K)
+stress-ng: info:  [2213] for a 600.00s run time:
+stress-ng: info:  [2213]    2400.02s available CPU time
+stress-ng: info:  [2213]    1200.10s user time   ( 50.00%)
+stress-ng: info:  [2213]       0.39s system time (  0.02%)
+stress-ng: info:  [2213]    1200.49s total time  ( 50.02%)
+stress-ng: info:  [2213] load average: 2.40 2.02 1.16
+stress-ng: info:  [2213] skipped: 0
+stress-ng: info:  [2213] passed: 4: cpu (4)
+stress-ng: info:  [2213] failed: 0
+stress-ng: info:  [2213] metrics untrustworthy: 0
+stress-ng: info:  [2213] successful run completed in 10 mins

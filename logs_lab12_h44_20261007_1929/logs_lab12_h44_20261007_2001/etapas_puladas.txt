@@ -1,1 +1,0 @@
-07/10/2026 20:01:45 | stress-ng CPU 50% - 10 min | pulada pelo usuário

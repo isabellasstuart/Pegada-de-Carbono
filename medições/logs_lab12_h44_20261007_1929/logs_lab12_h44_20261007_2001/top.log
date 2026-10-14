@@ -1,0 +1,986 @@
+=== 07/10/2026 20:01:44 | Etapa: Pausa (wattímetro) ===
+top - 20:01:45 up 36 min,  1 user,  load average: 0.03, 1.03, 1.45
+Tasks: 198 total,   1 running, 197 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.2 us,  0.2 sy,  0.0 ni, 99.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   7832.2 total,   3749.2 free,   1353.3 used,   3188.5 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   6478.9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1653 iss25     20   0 4250956 205392 124124 S   1.0   2.6   0:09.36 cinnamon
+   1917 iss25     20   0  621264  49768  40444 S   1.0   0.6   0:02.19 gnome-t+
+   2759 iss25     20   0    7624   5276   3192 R   1.0   0.1   0:00.02 top
+      1 root      20   0   26108  15940  10692 S   0.0   0.2   0:01.52 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      5 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+
+=== 07/10/2026 20:02:45 | Etapa: stress-ng CPU 75% - 10 min ===
+top - 20:02:46 up 37 min,  1 user,  load average: 1.89, 1.35, 1.53
+Tasks: 204 total,   4 running, 200 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 75.0 us,  0.2 sy,  0.0 ni, 24.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   7832.2 total,   3747.9 free,   1354.6 used,   3186.8 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   6477.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2771 iss25     20   0   31444   7576   4936 R  74.3   0.1   0:40.45 stress-+
+   2772 iss25     20   0   31444   7516   4876 S  74.3   0.1   0:40.45 stress-+
+   2773 iss25     20   0   31444   7528   4888 R  74.3   0.1   0:40.45 stress-+
+   2774 iss25     20   0   31444   7532   4892 R  74.3   0.1   0:40.45 stress-+
+   2787 iss25     20   0    7624   5292   3212 R   1.0   0.1   0:00.01 top
+      1 root      20   0   26108  15940  10692 S   0.0   0.2   0:01.52 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+
+
+=== 07/10/2026 20:03:46 | Etapa: stress-ng CPU 75% - 10 min ===
+top - 20:03:48 up 38 min,  1 user,  load average: 2.72, 1.70, 1.64
+Tasks: 204 total,   3 running, 201 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 75.1 us,  0.2 sy,  0.0 ni, 24.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   7832.2 total,   3743.6 free,   1358.9 used,   3186.8 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   6473.4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2771 iss25     20   0   31444   7576   4936 R  75.2   0.1   1:26.55 stress-+
+   2772 iss25     20   0   31444   7516   4876 R  75.2   0.1   1:26.55 stress-+
+   2773 iss25     20   0   31444   7528   4888 S  75.2   0.1   1:26.55 stress-+
+   2774 iss25     20   0   31444   7532   4892 S  75.2   0.1   1:26.56 stress-+
+   2803 iss25     20   0    7624   5352   3268 R   1.0   0.1   0:00.01 top
+      1 root      20   0   26108  15940  10692 S   0.0   0.2   0:01.52 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+
+
+=== 07/10/2026 20:04:48 | Etapa: stress-ng CPU 75% - 10 min ===
+top - 20:04:49 up 39 min,  1 user,  load average: 2.71, 1.89, 1.71
+Tasks: 202 total,   4 running, 198 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 75.2 us,  0.0 sy,  0.0 ni, 24.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   7832.2 total,   3750.2 free,   1352.3 used,   3186.8 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   6479.9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2771 iss25     20   0   31444   7576   4936 R  76.0   0.1   2:12.64 stress-+
+   2772 iss25     20   0   31444   7516   4876 R  76.0   0.1   2:12.64 stress-+
+   2773 iss25     20   0   31444   7528   4888 S  76.0   0.1   2:12.64 stress-+
+   2774 iss25     20   0   31444   7532   4892 R  76.0   0.1   2:12.65 stress-+
+      1 root      20   0   26108  15940  10692 S   0.0   0.2   0:01.52 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+
+=== 07/10/2026 20:05:49 | Etapa: stress-ng CPU 75% - 10 min ===
+top - 20:05:51 up 40 min,  1 user,  load average: 2.86, 2.10, 1.80
+Tasks: 202 total,   4 running, 198 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 75.3 us,  0.0 sy,  0.0 ni, 24.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   7832.2 total,   3752.3 free,   1350.2 used,   3186.8 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   6482.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2772 iss25     20   0   31444   7516   4876 R  75.2   0.1   2:58.74 stress-+
+   2773 iss25     20   0   31444   7528   4888 R  75.2   0.1   2:58.74 stress-+
+   2771 iss25     20   0   31444   7576   4936 S  74.3   0.1   2:58.75 stress-+
+   2774 iss25     20   0   31444   7532   4892 R  74.3   0.1   2:58.74 stress-+
+      1 root      20   0   26108  15940  10692 S   0.0   0.2   0:01.52 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+
+=== 07/10/2026 20:06:51 | Etapa: stress-ng CPU 75% - 10 min ===
+top - 20:06:52 up 41 min,  1 user,  load average: 3.22, 2.34, 1.90
+Tasks: 203 total,   4 running, 199 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 75.4 us,  0.2 sy,  0.0 ni, 24.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   7832.2 total,   3749.2 free,   1353.3 used,   3186.8 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   6478.9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2771 iss25     20   0   31444   7576   4936 R  75.2   0.1   3:44.85 stress-+
+   2772 iss25     20   0   31444   7516   4876 R  75.2   0.1   3:44.85 stress-+
+   2773 iss25     20   0   31444   7528   4888 R  74.3   0.1   3:44.84 stress-+
+   2774 iss25     20   0   31444   7532   4892 S  74.3   0.1   3:44.85 stress-+
+   2859 iss25     20   0    7624   5304   3224 R   1.0   0.1   0:00.01 top
+      1 root      20   0   26108  15940  10692 S   0.0   0.2   0:01.52 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+
+
+=== 07/10/2026 20:07:52 | Etapa: stress-ng CPU 75% - 10 min ===
+top - 20:07:54 up 42 min,  1 user,  load average: 3.02, 2.42, 1.96
+Tasks: 204 total,   4 running, 200 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 75.2 us,  0.0 sy,  0.0 ni, 24.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   7832.2 total,   3744.7 free,   1357.8 used,   3186.8 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   6474.4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2771 iss25     20   0   31444   7576   4936 R  75.2   0.1   4:30.94 stress-+
+   2772 iss25     20   0   31444   7516   4876 S  75.2   0.1   4:30.95 stress-+
+   2774 iss25     20   0   31444   7532   4892 R  75.2   0.1   4:30.94 stress-+
+   2773 iss25     20   0   31444   7528   4888 R  74.3   0.1   4:30.93 stress-+
+   1653 iss25     20   0 4250892 205344 124124 S   1.0   2.6   0:09.87 cinnamon
+   1917 iss25     20   0  621264  49768  40444 S   1.0   0.6   0:02.33 gnome-t+
+   2879 iss25     20   0    7624   5356   3272 R   1.0   0.1   0:00.01 top
+      1 root      20   0   26108  15940  10692 S   0.0   0.2   0:01.52 systemd
+
+=== 07/10/2026 20:08:54 | Etapa: stress-ng CPU 75% - 10 min ===
+top - 20:08:55 up 43 min,  1 user,  load average: 2.85, 2.48, 2.01
+Tasks: 204 total,   5 running, 199 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 75.4 us,  0.2 sy,  0.0 ni, 24.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   7832.2 total,   3746.4 free,   1356.0 used,   3186.8 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   6476.2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2771 iss25     20   0   31444   7576   4936 R  75.2   0.1   5:17.05 stress-+
+   2772 iss25     20   0   31444   7516   4876 R  75.2   0.1   5:17.05 stress-+
+   2773 iss25     20   0   31444   7528   4888 R  75.2   0.1   5:17.03 stress-+
+   2774 iss25     20   0   31444   7532   4892 R  74.3   0.1   5:17.04 stress-+
+   2895 iss25     20   0    7624   5240   3156 R   1.0   0.1   0:00.01 top
+      1 root      20   0   26108  15940  10692 S   0.0   0.2   0:01.52 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+
+
+=== 07/10/2026 20:09:55 | Etapa: stress-ng CPU 75% - 10 min ===
+top - 20:09:56 up 44 min,  1 user,  load average: 3.16, 2.63, 2.09
+Tasks: 204 total,   3 running, 201 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 75.3 us,  0.0 sy,  0.0 ni, 24.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   7832.2 total,   3745.1 free,   1357.4 used,   3184.9 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   6474.9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2772 iss25     20   0   31444   7516   4876 S  75.2   0.1   6:03.12 stress-+
+   2771 iss25     20   0   31444   7576   4936 R  74.3   0.1   6:03.13 stress-+
+   2773 iss25     20   0   31444   7528   4888 R  74.3   0.1   6:03.11 stress-+
+   2774 iss25     20   0   31444   7532   4892 S  74.3   0.1   6:03.13 stress-+
+   2910 iss25     20   0    7624   5220   3140 R   1.0   0.1   0:00.01 top
+      1 root      20   0   26108  15940  10692 S   0.0   0.2   0:01.52 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+
+
+=== 07/10/2026 20:10:57 | Etapa: stress-ng CPU 75% - 10 min ===
+top - 20:10:58 up 45 min,  1 user,  load average: 3.01, 2.70, 2.15
+Tasks: 205 total,   5 running, 200 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 75.9 us,  0.0 sy,  0.0 ni, 24.1 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   7832.2 total,   3747.0 free,   1355.5 used,   3184.8 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   6476.7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2771 iss25     20   0   31444   7576   4936 R  76.2   0.1   6:49.25 stress-+
+   2772 iss25     20   0   31444   7516   4876 R  76.2   0.1   6:49.24 stress-+
+   2773 iss25     20   0   31444   7528   4888 R  75.2   0.1   6:49.23 stress-+
+   2774 iss25     20   0   31444   7532   4892 R  75.2   0.1   6:49.25 stress-+
+   2935 iss25     20   0    7624   5240   3160 R   1.0   0.1   0:00.01 top
+      1 root      20   0   26108  15940  10692 S   0.0   0.2   0:01.53 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+
+
+=== 07/10/2026 20:11:58 | Etapa: Pausa (wattímetro) ===
+top - 20:11:59 up 46 min,  1 user,  load average: 2.86, 2.75, 2.21
+Tasks: 199 total,   2 running, 197 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.4 sy,  0.0 ni, 99.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   7832.2 total,   3754.1 free,   1348.4 used,   3184.7 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   6483.9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2954 iss25     20   0    7624   5312   3228 R   1.0   0.1   0:00.02 top
+      1 root      20   0   26108  15940  10692 S   0.0   0.2   0:01.53 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      5 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      6 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      7 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+
+=== 07/10/2026 20:13:00 | Etapa: Pausa (wattímetro) ===
+top - 20:13:01 up 47 min,  1 user,  load average: 0.99, 2.22, 2.06
+Tasks: 199 total,   1 running, 198 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.2 sy,  0.0 ni, 99.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   7832.2 total,   3754.0 free,   1348.4 used,   3184.6 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   6483.8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+      1 root      20   0   26108  15940  10692 S   0.0   0.2   0:01.53 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      5 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      6 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      7 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      8 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+
+=== 07/10/2026 20:14:01 | Etapa: Pausa (wattímetro) ===
+top - 20:14:02 up 48 min,  1 user,  load average: 0.36, 1.81, 1.93
+Tasks: 199 total,   1 running, 198 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.2 us,  0.4 sy,  0.0 ni, 99.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   7832.2 total,   3753.6 free,   1348.8 used,   3184.6 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   6483.4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1897 iss25     20   0  508252  73092  38720 S   2.0   0.9   0:09.25 mintrep+
+   2985 iss25     20   0    7624   5340   3260 R   1.0   0.1   0:00.03 top
+      1 root      20   0   26108  15940  10692 S   0.0   0.2   0:01.53 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      5 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      6 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+
+=== 07/10/2026 20:15:03 | Etapa: Pausa (wattímetro) ===
+top - 20:15:04 up 49 min,  1 user,  load average: 0.13, 1.48, 1.80
+Tasks: 200 total,   1 running, 199 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  1.3 sy,  0.0 ni, 97.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   7832.2 total,   3752.3 free,   1350.1 used,   3184.6 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   6482.1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    945 root      20   0  802348 120140  72484 S   1.0   1.5   0:05.18 Xorg
+   1653 iss25     20   0 4250892 205316 124124 S   1.0   2.6   0:10.61 cinnamon
+   1917 iss25     20   0  621264  49768  40444 S   1.0   0.6   0:02.53 gnome-t+
+   2867 root      20   0       0      0      0 I   1.0   0.0   0:00.05 kworker+
+   3000 iss25     20   0    7624   5392   3312 R   1.0   0.1   0:00.02 top
+      1 root      20   0   26108  15940  10692 S   0.0   0.2   0:01.53 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+
+
+=== 07/10/2026 20:16:04 | Etapa: Pausa (wattímetro) ===
+top - 20:16:05 up 50 min,  1 user,  load average: 0.05, 1.21, 1.69
+Tasks: 197 total,   1 running, 196 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.2 us,  0.4 sy,  0.0 ni, 99.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   7832.2 total,   3744.6 free,   1357.9 used,   3186.6 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   6474.4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    945 root      20   0  800300 120140  72484 S   1.0   1.5   0:05.21 Xorg
+   1653 iss25     20   0 4250892 205296 124124 S   1.0   2.6   0:10.72 cinnamon
+   3022 iss25     20   0    7624   5212   3128 R   1.0   0.1   0:00.02 top
+      1 root      20   0   26108  15940  10692 S   0.0   0.2   0:01.53 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      5 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+
+=== 07/10/2026 20:17:06 | Etapa: stress-ng CPU 100% - 10 min ===
+top - 20:17:07 up 51 min,  1 user,  load average: 2.40, 1.63, 1.80
+Tasks: 205 total,   5 running, 200 sleeping,   0 stopped,   0 zombie
+%Cpu(s):100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   7832.2 total,   3745.3 free,   1357.1 used,   3184.8 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   6475.1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3034 iss25     20   0   31444   7580   4940 R 100.0   0.1   0:45.66 stress-+
+   3035 iss25     20   0   31444   7580   4940 R 100.0   0.1   0:45.64 stress-+
+   3036 iss25     20   0   31444   7576   4936 R 100.0   0.1   0:45.77 stress-+
+   3037 iss25     20   0   31444   7580   4940 R 100.0   0.1   0:45.83 stress-+
+      1 root      20   0   26108  15940  10692 S   0.0   0.2   0:01.53 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+
+=== 07/10/2026 20:18:07 | Etapa: stress-ng CPU 100% - 10 min ===
+top - 20:18:08 up 52 min,  1 user,  load average: 3.41, 2.07, 1.94
+Tasks: 203 total,   5 running, 198 sleeping,   0 stopped,   0 zombie
+%Cpu(s):100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   7832.2 total,   3745.8 free,   1356.7 used,   3184.9 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   6475.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3037 iss25     20   0   31444   7580   4940 R 100.0   0.1   1:47.22 stress-+
+   3034 iss25     20   0   31444   7580   4940 R 100.0   0.1   1:47.04 stress-+
+   3036 iss25     20   0   31444   7576   4936 R 100.0   0.1   1:47.05 stress-+
+   3035 iss25     20   0   31444   7580   4940 R  99.0   0.1   1:46.87 stress-+
+   3073 iss25     20   0    7624   5264   3180 R   1.0   0.1   0:00.01 top
+      1 root      20   0   26108  15940  10692 S   0.0   0.2   0:01.53 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+
+
+=== 07/10/2026 20:19:08 | Etapa: stress-ng CPU 100% - 10 min ===
+top - 20:19:10 up 53 min,  1 user,  load average: 3.84, 2.44, 2.08
+Tasks: 204 total,   5 running, 199 sleeping,   0 stopped,   0 zombie
+%Cpu(s):100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   7832.2 total,   3756.9 free,   1345.9 used,   3184.5 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   6486.3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3034 iss25     20   0   31444   7580   4940 R 100.0   0.1   2:48.21 stress-+
+   3035 iss25     20   0   31444   7580   4940 R 100.0   0.1   2:47.99 stress-+
+   3036 iss25     20   0   31444   7576   4936 R 100.0   0.1   2:48.22 stress-+
+   3037 iss25     20   0   31444   7580   4940 R  99.0   0.1   2:48.42 stress-+
+      1 root      20   0   26108  15940  10692 S   0.0   0.2   0:01.54 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+
+=== 07/10/2026 20:20:10 | Etapa: stress-ng CPU 100% - 10 min ===
+top - 20:20:11 up 54 min,  1 user,  load average: 3.94, 2.72, 2.20
+Tasks: 204 total,   5 running, 199 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 99.8 us,  0.2 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   7832.2 total,   3760.4 free,   1342.5 used,   3184.7 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   6489.7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3034 iss25     20   0   31444   7580   4940 R 100.0   0.1   3:49.51 stress-+
+   3035 iss25     20   0   31444   7580   4940 R 100.0   0.1   3:49.39 stress-+
+   3036 iss25     20   0   31444   7576   4936 R  99.0   0.1   3:49.63 stress-+
+   3037 iss25     20   0   31444   7580   4940 R  99.0   0.1   3:49.74 stress-+
+      1 root      20   0   26108  15940  10692 S   0.0   0.2   0:01.54 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+
+=== 07/10/2026 20:21:11 | Etapa: stress-ng CPU 100% - 10 min ===
+top - 20:21:13 up 55 min,  1 user,  load average: 4.13, 3.02, 2.34
+Tasks: 204 total,   5 running, 199 sleeping,   0 stopped,   0 zombie
+%Cpu(s):100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   7832.2 total,   3749.6 free,   1353.2 used,   3186.7 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   6479.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3035 iss25     20   0   31444   7580   4940 R 100.0   0.1   4:50.78 stress-+
+   3036 iss25     20   0   31444   7576   4936 R 100.0   0.1   4:51.04 stress-+
+   3037 iss25     20   0   31444   7580   4940 R 100.0   0.1   4:51.02 stress-+
+   3034 iss25     20   0   31444   7580   4940 R  99.0   0.1   4:50.82 stress-+
+   1897 iss25     20   0  508252  73092  38720 S   1.0   0.9   0:09.79 mintrep+
+   3189 iss25     20   0    7624   5296   3212 R   1.0   0.1   0:00.01 top
+      1 root      20   0   26108  15940  10692 S   0.0   0.2   0:01.54 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+
+=== 07/10/2026 20:22:13 | Etapa: stress-ng CPU 100% - 10 min ===
+top - 20:22:14 up 56 min,  1 user,  load average: 4.05, 3.20, 2.45
+Tasks: 201 total,   5 running, 196 sleeping,   0 stopped,   0 zombie
+%Cpu(s):100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   7832.2 total,   3746.4 free,   1356.4 used,   3186.7 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   6475.8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3035 iss25     20   0   31444   7580   4940 R 100.0   0.1   5:52.19 stress-+
+   3036 iss25     20   0   31444   7576   4936 R 100.0   0.1   5:52.46 stress-+
+   3037 iss25     20   0   31444   7580   4940 R 100.0   0.1   5:52.33 stress-+
+   3034 iss25     20   0   31444   7580   4940 R  99.0   0.1   5:52.12 stress-+
+   3208 iss25     20   0    7624   5308   3224 R   1.0   0.1   0:00.01 top
+      1 root      20   0   26108  15940  10692 S   0.0   0.2   0:01.54 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+
+
+=== 07/10/2026 20:23:14 | Etapa: stress-ng CPU 100% - 10 min ===
+top - 20:23:15 up 57 min,  1 user,  load average: 4.02, 3.35, 2.55
+Tasks: 202 total,   5 running, 197 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 99.8 us,  0.2 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   7832.2 total,   3745.5 free,   1357.3 used,   3188.7 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   6474.9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3034 iss25     20   0   31444   7580   4940 R 100.0   0.1   6:53.42 stress-+
+   3035 iss25     20   0   31444   7580   4940 R 100.0   0.1   6:53.60 stress-+
+   3036 iss25     20   0   31444   7576   4936 R 100.0   0.1   6:53.87 stress-+
+   3037 iss25     20   0   31444   7580   4940 R 100.0   0.1   6:53.61 stress-+
+      1 root      20   0   26108  15940  10692 S   0.0   0.2   0:01.54 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+
+=== 07/10/2026 20:24:16 | Etapa: stress-ng CPU 100% - 10 min ===
+top - 20:24:17 up 58 min,  1 user,  load average: 4.00, 3.48, 2.65
+Tasks: 202 total,   5 running, 197 sleeping,   0 stopped,   0 zombie
+%Cpu(s):100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   7832.2 total,   3739.7 free,   1363.1 used,   3188.7 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   6469.1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3034 iss25     20   0   31444   7580   4940 R 100.0   0.1   7:54.71 stress-+
+   3035 iss25     20   0   31444   7580   4940 R 100.0   0.1   7:55.00 stress-+
+   3036 iss25     20   0   31444   7576   4936 R 100.0   0.1   7:55.28 stress-+
+   3037 iss25     20   0   31444   7580   4940 R 100.0   0.1   7:54.91 stress-+
+      1 root      20   0   26108  15940  10692 S   0.0   0.2   0:01.54 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+
+=== 07/10/2026 20:25:17 | Etapa: stress-ng CPU 100% - 10 min ===
+top - 20:25:18 up 59 min,  1 user,  load average: 4.05, 3.59, 2.74
+Tasks: 202 total,   5 running, 197 sleeping,   0 stopped,   0 zombie
+%Cpu(s):100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   7832.2 total,   3741.7 free,   1361.1 used,   3186.7 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   6471.1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3035 iss25     20   0   31444   7580   4940 R 100.0   0.1   8:56.40 stress-+
+   3034 iss25     20   0   31444   7580   4940 R 100.0   0.1   8:56.04 stress-+
+   3036 iss25     20   0   31444   7576   4936 R 100.0   0.1   8:56.66 stress-+
+   3037 iss25     20   0   31444   7580   4940 R 100.0   0.1   8:56.18 stress-+
+   3259 iss25     20   0    7624   5324   3244 R   1.0   0.1   0:00.01 top
+      1 root      20   0   26108  15940  10692 S   0.0   0.2   0:01.54 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+
+
+=== 07/10/2026 20:26:18 | Etapa: stress-ng CPU 100% - 10 min ===
+top - 20:26:20 up  1:01,  1 user,  load average: 4.02, 3.67, 2.82
+Tasks: 202 total,   5 running, 197 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 99.8 us,  0.2 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   7832.2 total,   3740.7 free,   1362.2 used,   3186.7 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   6470.1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3034 iss25     20   0   31444   7580   4940 R 100.0   0.1   9:57.37 stress-+
+   3036 iss25     20   0   31444   7576   4936 R 100.0   0.1   9:58.08 stress-+
+   3037 iss25     20   0   31444   7580   4940 R 100.0   0.1   9:57.47 stress-+
+   3035 iss25     20   0   31444   7580   4940 R  99.0   0.1   9:57.81 stress-+
+   3279 iss25     20   0    7624   5296   3212 R   1.0   0.1   0:00.01 top
+      1 root      20   0   26108  15940  10692 S   0.0   0.2   0:01.54 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+
+
+=== 07/10/2026 20:27:20 | Etapa: Pausa (wattímetro) ===
+top - 20:27:21 up  1:02,  1 user,  load average: 1.47, 3.00, 2.64
+Tasks: 199 total,   1 running, 198 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.2 us,  0.2 sy,  0.0 ni, 99.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   7832.2 total,   3745.1 free,   1357.7 used,   3184.5 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   6474.5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3306 iss25     20   0    7624   5304   3224 R   1.0   0.1   0:00.02 top
+      1 root      20   0   26108  15940  10692 S   0.0   0.2   0:01.55 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      5 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      6 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      7 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+
+=== 07/10/2026 20:28:21 | Etapa: Pausa (wattímetro) ===
+top - 20:28:23 up  1:03,  1 user,  load average: 0.58, 2.43, 2.47
+Tasks: 198 total,   1 running, 197 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.2 us,  0.2 sy,  0.0 ni, 99.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   7832.2 total,   3745.3 free,   1357.4 used,   3184.6 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   6474.9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+      1 root      20   0   26108  15940  10692 S   0.0   0.2   0:01.56 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      5 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      6 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      7 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      8 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+
+=== 07/10/2026 20:29:23 | Etapa: Pausa (wattímetro) ===
+top - 20:29:24 up  1:04,  1 user,  load average: 0.21, 1.98, 2.31
+Tasks: 197 total,   2 running, 195 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.4 sy,  0.0 ni, 99.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   7832.2 total,   3745.3 free,   1357.4 used,   3184.6 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   6474.8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3347 iss25     20   0    7624   5356   3272 R   1.0   0.1   0:00.03 top
+      1 root      20   0   26108  15940  10692 S   0.0   0.2   0:01.56 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      5 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      6 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      7 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+
+=== 07/10/2026 20:30:24 | Etapa: Resfriamento ===
+top - 20:30:26 up  1:05,  1 user,  load average: 0.08, 1.62, 2.16
+Tasks: 199 total,   1 running, 198 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.2 sy,  0.0 ni, 99.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   7832.2 total,   3747.1 free,   1355.6 used,   3184.7 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   6476.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+      1 root      20   0   26108  15940  10692 S   0.0   0.2   0:01.56 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      5 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      6 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      7 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      8 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+
+=== 07/10/2026 20:31:26 | Etapa: stress-ng CPU + RAM - 10 min ===
+top - 20:31:27 up  1:06,  1 user,  load average: 1.41, 1.61, 2.12
+Tasks: 208 total,   7 running, 201 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 99.6 us,  0.4 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   7832.2 total,   1006.8 free,   4095.7 used,   3189.1 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3736.5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3391 iss25     20   0   31452   7440   4800 R  78.0   0.1   0:10.48 stress-+
+   3393 iss25     20   0   31452   7436   4796 R  77.0   0.1   0:09.30 stress-+
+   3392 iss25     20   0   31452   7440   4800 R  75.0   0.1   0:11.65 stress-+
+   3398 iss25     20   0 1568672   1.5g   2424 R  73.0  19.2   0:10.20 stress-+
+   3394 iss25     20   0   31452   7440   4800 R  51.0   0.1   0:08.56 stress-+
+   3397 iss25     20   0 1568672   1.5g   2424 R  50.0  19.2   0:10.23 stress-+
+      1 root      20   0   26108  15940  10692 S   0.0   0.2   0:01.56 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+
+=== 07/10/2026 20:32:27 | Etapa: stress-ng CPU + RAM - 10 min ===
+top - 20:32:29 up  1:07,  1 user,  load average: 4.43, 2.44, 2.37
+Tasks: 207 total,   7 running, 200 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 99.8 us,  0.2 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   7832.2 total,   1422.1 free,   3680.2 used,   3189.2 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   4152.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3391 iss25     20   0   31452   7440   4800 R  78.2   0.1   0:55.96 stress-+
+   3393 iss25     20   0   31452   7436   4796 R  78.2   0.1   0:54.11 stress-+
+   3392 iss25     20   0   31452   7440   4800 R  73.3   0.1   0:47.75 stress-+
+   3397 iss25     20   0 1568672   1.0g   2676 R  70.3  13.1   0:46.20 stress-+
+   3394 iss25     20   0   31452   7440   4800 R  50.5   0.1   0:49.81 stress-+
+   3398 iss25     20   0 1568672   1.5g   2676 R  50.5  19.2   0:52.01 stress-+
+   3416 iss25     20   0    7624   5276   3192 R   1.0   0.1   0:00.01 top
+      1 root      20   0   26108  15940  10692 S   0.0   0.2   0:01.56 systemd
+
+=== 07/10/2026 20:33:29 | Etapa: stress-ng CPU + RAM - 10 min ===
+top - 20:33:30 up  1:08,  1 user,  load average: 5.46, 3.11, 2.61
+Tasks: 207 total,   7 running, 200 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 98.2 us,  1.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   7832.2 total,   2748.2 free,   2366.1 used,   3189.3 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   5466.1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3394 iss25     20   0   31452   7440   4800 R  81.4   0.1   1:35.59 stress-+
+   3392 iss25     20   0   31452   7440   4800 R  74.5   0.1   1:34.79 stress-+
+   3397 iss25     20   0 1568672 982.7m   2760 R  72.5  12.5   1:21.17 stress-+
+   3391 iss25     20   0   31452   7440   4800 R  68.6   0.1   1:37.73 stress-+
+   3393 iss25     20   0   31452   7436   4796 R  50.0   0.1   1:29.77 stress-+
+   3398 iss25     20   0 1568672 337908   2760 R  49.0   4.2   1:32.15 stress-+
+      1 root      20   0   26108  15940  10692 S   0.0   0.2   0:01.56 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+
+=== 07/10/2026 20:34:30 | Etapa: stress-ng CPU + RAM - 10 min ===
+top - 20:34:32 up  1:09,  1 user,  load average: 5.80, 3.64, 2.82
+Tasks: 207 total,   7 running, 200 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 94.7 us,  5.3 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   7832.2 total,    668.6 free,   4445.7 used,   3189.2 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3386.5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3393 iss25     20   0   31452   7436   4796 R  84.2   0.1   2:08.39 stress-+
+   3392 iss25     20   0   31452   7440   4800 R  80.2   0.1   2:18.55 stress-+
+   3397 iss25     20   0 1568672   1.5g   2772 R  72.3  19.2   2:04.04 stress-+
+   3391 iss25     20   0   31452   7440   4800 R  64.4   0.1   2:19.97 stress-+
+   3394 iss25     20   0   31452   7440   4800 R  50.5   0.1   2:19.93 stress-+
+   3398 iss25     20   0 1568672   1.5g   2772 R  49.5  19.2   2:05.68 stress-+
+     52 root      20   0       0      0      0 S   1.0   0.0   0:00.09 kcompac+
+      1 root      20   0   26108  15940  10692 S   0.0   0.2   0:01.56 systemd
+
+=== 07/10/2026 20:35:32 | Etapa: stress-ng CPU + RAM - 10 min ===
+top - 20:35:33 up  1:10,  1 user,  load average: 5.97, 4.12, 3.05
+Tasks: 207 total,   7 running, 200 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 90.6 us,  9.4 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   7832.2 total,    739.2 free,   4375.0 used,   3187.3 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3457.2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3391 iss25     20   0   31452   7440   4800 R  89.1   0.1   2:55.56 stress-+
+   3393 iss25     20   0   31452   7436   4796 R  78.2   0.1   2:52.12 stress-+
+   3398 iss25     20   0 1568672   1.5g   2772 R  67.3  19.2   2:46.08 stress-+
+   3397 iss25     20   0 1568672   1.5g   2772 R  57.4  19.2   2:41.19 stress-+
+   3392 iss25     20   0   31452   7440   4800 R  52.5   0.1   3:03.56 stress-+
+   3394 iss25     20   0   31452   7440   4800 R  52.5   0.1   3:03.32 stress-+
+   1653 iss25     20   0 4250892 205392 124124 S   1.0   2.6   0:12.87 cinnamon
+      1 root      20   0   26108  15940  10692 S   0.0   0.2   0:01.56 systemd
+
+=== 07/10/2026 20:36:33 | Etapa: stress-ng CPU + RAM - 10 min ===
+top - 20:36:34 up  1:11,  1 user,  load average: 5.99, 4.46, 3.23
+Tasks: 208 total,   7 running, 201 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 99.8 us,  0.2 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   7832.2 total,   1850.0 free,   3264.2 used,   3189.4 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   4568.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3393 iss25     20   0   31452   7436   4796 R  86.0   0.1   3:28.94 stress-+
+   3394 iss25     20   0   31452   7440   4800 R  78.0   0.1   3:38.96 stress-+
+   3392 iss25     20   0   31452   7440   4800 R  74.0   0.1   3:47.44 stress-+
+   3398 iss25     20   0 1568672   1.5g   2772 R  63.0  19.2   3:27.94 stress-+
+   3391 iss25     20   0   31452   7440   4800 R  50.0   0.1   3:40.97 stress-+
+   3397 iss25     20   0 1568672 438272   2772 R  49.0   5.5   3:22.98 stress-+
+   1653 iss25     20   0 4250956 205368 124124 S   1.0   2.6   0:12.95 cinnamon
+   3486 iss25     20   0    7624   5208   3128 R   1.0   0.1   0:00.01 top
+
+=== 07/10/2026 20:37:35 | Etapa: stress-ng CPU + RAM - 10 min ===
+top - 20:37:36 up  1:12,  1 user,  load average: 6.00, 4.74, 3.41
+Tasks: 207 total,   7 running, 200 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 94.9 us,  5.1 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   7832.2 total,    642.0 free,   4472.2 used,   3187.2 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3360.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3391 iss25     20   0   31452   7440   4800 R  91.2   0.1   4:19.79 stress-+
+   3398 iss25     20   0 1568672   1.5g   2772 R  80.4  19.2   4:06.01 stress-+
+   3397 iss25     20   0 1568672   1.5g   2772 R  68.6  19.2   3:59.49 stress-+
+   3392 iss25     20   0   31452   7440   4800 R  57.8   0.1   4:31.43 stress-+
+   3393 iss25     20   0   31452   7436   4796 R  48.0   0.1   4:11.93 stress-+
+   3394 iss25     20   0   31452   7440   4800 R  47.1   0.1   4:23.95 stress-+
+   3504 iss25     20   0    7624   5360   3280 R   1.0   0.1   0:00.01 top
+      1 root      20   0   26108  15940  10692 S   0.0   0.2   0:01.57 systemd
+
+=== 07/10/2026 20:38:36 | Etapa: stress-ng CPU + RAM - 10 min ===
+top - 20:38:37 up  1:13,  1 user,  load average: 6.17, 5.04, 3.60
+Tasks: 207 total,   7 running, 200 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 83.0 us, 17.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   7832.2 total,    587.2 free,   4527.0 used,   3185.3 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3305.2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3392 iss25     20   0   31452   7440   4800 R  83.3   0.1   5:15.68 stress-+
+   3393 iss25     20   0   31452   7436   4796 R  72.5   0.1   4:56.79 stress-+
+   3394 iss25     20   0   31452   7440   4800 R  70.6   0.1   5:07.72 stress-+
+   3397 iss25     20   0 1568672   1.2g   2772 R  70.6  16.1   4:38.45 stress-+
+   3391 iss25     20   0   31452   7440   4800 R  50.0   0.1   4:54.62 stress-+
+   3398 iss25     20   0 1568672   1.5g   2772 R  49.0  19.2   4:44.79 stress-+
+   3520 iss25     20   0    7624   5356   3272 R   1.0   0.1   0:00.01 top
+      1 root      20   0   26108  15940  10692 S   0.0   0.2   0:01.57 systemd
+
+=== 07/10/2026 20:39:37 | Etapa: stress-ng CPU + RAM - 10 min ===
+top - 20:39:39 up  1:14,  1 user,  load average: 6.27, 5.29, 3.78
+Tasks: 207 total,   7 running, 200 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 90.7 us,  9.3 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   7832.2 total,   1856.3 free,   3257.9 used,   3185.3 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   4574.3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3393 iss25     20   0   31452   7436   4796 R  78.2   0.1   5:39.58 stress-+
+   3398 iss25     20   0 1568672   1.5g   2772 R  75.2  19.2   5:26.99 stress-+
+   3392 iss25     20   0   31452   7440   4800 R  73.3   0.1   5:55.18 stress-+
+   3394 iss25     20   0   31452   7440   4800 R  73.3   0.1   5:52.34 stress-+
+   3391 iss25     20   0   31452   7440   4800 R  50.5   0.1   5:35.23 stress-+
+   3397 iss25     20   0 1568672 438272   2772 R  49.5   5.5   5:14.14 stress-+
+   3536 iss25     20   0    7624   5272   3192 R   1.0   0.1   0:00.01 top
+      1 root      20   0   26108  15940  10692 S   0.0   0.2   0:01.57 systemd
+
+=== 07/10/2026 20:40:39 | Etapa: stress-ng CPU + RAM - 10 min ===
+top - 20:40:40 up  1:15,  1 user,  load average: 6.10, 5.42, 3.92
+Tasks: 206 total,   7 running, 199 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 93.1 us,  6.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   7832.2 total,   1425.9 free,   3688.3 used,   3185.3 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   4143.9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3393 iss25     20   0   31452   7436   4796 R  85.1   0.1   6:26.53 stress-+
+   3391 iss25     20   0   31452   7440   4800 R  75.2   0.1   6:14.40 stress-+
+   3394 iss25     20   0   31452   7440   4800 R  71.3   0.1   6:39.24 stress-+
+   3392 iss25     20   0   31452   7440   4800 R  68.3   0.1   6:37.13 stress-+
+   3398 iss25     20   0 1568672   1.5g   2772 R  50.5  19.2   6:05.38 stress-+
+   3397 iss25     20   0 1568672   1.5g   2772 R  49.5  19.2   5:46.19 stress-+
+      1 root      20   0   26108  15940  10692 S   0.0   0.2   0:01.57 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+
+=== 07/10/2026 20:41:40 | Etapa: Pausa (wattímetro) ===
+top - 20:41:42 up  1:16,  1 user,  load average: 3.77, 4.98, 3.87
+Tasks: 195 total,   1 running, 194 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.2 sy,  0.0 ni, 99.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   7832.2 total,   3729.8 free,   1384.4 used,   3185.1 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   6447.9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3569 iss25     20   0    7624   5352   3268 R   1.0   0.1   0:00.02 top
+      1 root      20   0   26108  15940  10692 S   0.0   0.2   0:01.57 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      5 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      6 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      7 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+
+=== 07/10/2026 20:42:42 | Etapa: Pausa (wattímetro) ===
+top - 20:42:43 up  1:17,  1 user,  load average: 1.27, 4.01, 3.61
+Tasks: 196 total,   1 running, 195 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.4 us,  0.2 sy,  0.0 ni, 99.1 id,  0.2 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   7832.2 total,   3738.2 free,   1375.9 used,   3185.1 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   6456.3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1653 iss25     20   0 4250892 205328 124124 S   1.0   2.6   0:13.50 cinnamon
+      1 root      20   0   26108  15940  10692 S   0.0   0.2   0:01.57 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      5 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      6 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      7 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+
+=== 07/10/2026 20:43:43 | Etapa: Pausa (wattímetro) ===
+top - 20:43:45 up  1:18,  1 user,  load average: 0.47, 3.27, 3.38
+Tasks: 197 total,   1 running, 196 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.2 sy,  0.0 ni, 99.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   7832.2 total,   3753.6 free,   1360.6 used,   3185.1 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   6471.7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+      1 root      20   0   26108  15940  10692 S   0.0   0.2   0:01.57 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      5 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      6 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      7 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      8 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+
+=== 07/10/2026 20:44:45 | Etapa: Pausa (wattímetro) ===
+top - 20:44:46 up  1:19,  1 user,  load average: 0.17, 2.67, 3.17
+Tasks: 197 total,   1 running, 196 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.2 us,  0.0 sy,  0.0 ni, 99.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   7832.2 total,   3751.6 free,   1362.5 used,   3185.1 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   6469.7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3617 iss25     20   0    7624   5396   3312 R   1.0   0.1   0:00.02 top
+      1 root      20   0   26108  15940  10692 S   0.0   0.2   0:01.57 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      5 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      6 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      7 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+
+=== 07/10/2026 20:45:46 | Etapa: Pausa (wattímetro) ===
+top - 20:45:48 up  1:20,  1 user,  load average: 0.06, 2.15, 2.95
+Tasks: 197 total,   1 running, 196 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.2 us,  0.2 sy,  0.0 ni, 99.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   7832.2 total,   3742.0 free,   1372.1 used,   3189.0 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   6460.1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3632 iss25     20   0    7624   5348   3268 R   1.0   0.1   0:00.02 top
+      1 root      20   0   26108  15940  10692 S   0.0   0.2   0:01.57 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      5 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      6 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      7 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+
+=== 07/10/2026 20:46:48 | Etapa: Resfriamento ===
+top - 20:46:49 up  1:21,  1 user,  load average: 0.11, 1.78, 2.77
+Tasks: 197 total,   1 running, 196 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.4 sy,  0.0 ni, 99.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   7832.2 total,   3744.1 free,   1370.0 used,   3185.2 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   6462.2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1653 iss25     20   0 4250956 205404 124124 S   1.0   2.6   0:15.19 cinnamon
+   3654 iss25     20   0    7624   5268   3188 R   1.0   0.1   0:00.02 top
+      1 root      20   0   26108  15940  10692 S   0.0   0.2   0:01.57 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      5 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      6 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+
+=== 07/10/2026 20:47:49 | Etapa: Pausa (wattímetro) ===
+top - 20:47:51 up  1:22,  1 user,  load average: 0.04, 1.46, 2.60
+Tasks: 197 total,   1 running, 196 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.2 us,  0.2 sy,  0.0 ni, 99.3 id,  0.0 wa,  0.0 hi,  0.2 si,  0.0 st 
+MiB Mem :   7832.2 total,   3739.2 free,   1375.0 used,   3185.2 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   6457.3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1653 iss25     20   0 4250892 205340 124124 S   1.0   2.6   0:15.30 cinnamon
+   3673 iss25     20   0    7624   5396   3312 R   1.0   0.1   0:00.02 top
+      1 root      20   0   26108  15940  10692 S   0.0   0.2   0:01.57 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      5 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      6 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+
+=== 07/10/2026 20:48:51 | Etapa: mprime (Torture Test) - 10 min ===
+top - 20:48:52 up  1:23,  1 user,  load average: 0.63, 1.32, 2.47
+Tasks: 203 total,   1 running, 202 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.2 sy, 99.8 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   7832.2 total,   3726.2 free,   1384.2 used,   3188.8 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   6448.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3692 iss25     20   0  420388  18528   6120 S 397.0   0.2   0:45.26 mprime
+   1897 iss25     20   0  508252  73092  38720 S   2.0   0.9   0:12.07 mintrep+
+   3710 iss25     20   0    7624   5236   3156 R   1.0   0.1   0:00.01 top
+      1 root      20   0   26108  15940  10692 S   0.0   0.2   0:01.57 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      5 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+
+=== 07/10/2026 20:49:52 | Etapa: mprime (Torture Test) - 10 min ===
+top - 20:49:54 up  1:24,  1 user,  load average: 2.92, 1.87, 2.58
+Tasks: 203 total,   1 running, 202 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.0 sy,100.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   7832.2 total,   3717.5 free,   1392.9 used,   3188.8 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   6439.3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3692 iss25     20   0  408708  18528   6120 S 398.0   0.2   4:50.54 mprime
+      1 root      20   0   26108  15940  10692 S   0.0   0.2   0:01.57 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      5 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      6 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      7 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+
+=== 07/10/2026 20:50:54 | Etapa: mprime (Torture Test) - 10 min ===
+top - 20:50:55 up  1:25,  1 user,  load average: 3.61, 2.26, 2.68
+Tasks: 203 total,   1 running, 202 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.7 us,  0.2 sy, 99.1 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   7832.2 total,   3714.7 free,   1395.8 used,   3193.1 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   6436.4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3692 iss25     20   0  408708  18528   6120 S 391.1   0.2   8:55.72 mprime
+    945 root      20   0  802868 120140  72484 S   4.0   1.5   0:08.32 Xorg
+   1653 iss25     20   0 4250892 205348 124124 S   2.0   2.6   0:15.58 cinnamon
+   1917 iss25     20   0  621264  49768  40444 S   1.0   0.6   0:05.04 gnome-t+
+   3740 iss25     20   0    7624   5344   3260 R   1.0   0.1   0:00.01 top
+      1 root      20   0   26108  15940  10692 S   0.0   0.2   0:01.57 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+
+
+=== 07/10/2026 20:51:55 | Etapa: mprime (Torture Test) - 10 min ===
+top - 20:51:56 up  1:26,  1 user,  load average: 3.86, 2.58, 2.76
+Tasks: 203 total,   1 running, 202 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.0 sy,100.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   7832.2 total,   3715.2 free,   1395.2 used,   3188.9 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   6437.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3692 iss25     20   0  408708  18528   6120 S 400.0   0.2  13:00.98 mprime
+   3755 iss25     20   0    7624   5236   3156 R   1.0   0.1   0:00.01 top
+      1 root      20   0   26108  15940  10692 S   0.0   0.2   0:01.57 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      5 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      6 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+
+=== 07/10/2026 20:52:57 | Etapa: mprime (Torture Test) - 10 min ===
+top - 20:52:58 up  1:27,  1 user,  load average: 4.02, 2.87, 2.85
+Tasks: 202 total,   1 running, 201 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.2 sy, 99.8 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   7832.2 total,   3720.6 free,   1389.8 used,   3188.9 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   6442.4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3692 iss25     20   0  408708  18528   6120 S 398.0   0.2  17:06.23 mprime
+   1653 iss25     20   0 4250892 205328 124124 S   1.0   2.6   0:15.75 cinnamon
+      1 root      20   0   26108  15940  10692 S   0.0   0.2   0:01.57 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      5 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      6 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+
+=== 07/10/2026 20:53:58 | Etapa: mprime (Torture Test) - 10 min ===
+top - 20:53:59 up  1:28,  1 user,  load average: 4.01, 3.08, 2.93
+Tasks: 199 total,   1 running, 198 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.2 us,  0.2 sy, 99.6 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   7832.2 total,   3721.2 free,   1389.2 used,   3188.9 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   6443.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3692 iss25     20   0  408708  18528   6120 S 400.0   0.2  21:11.47 mprime
+   3787 iss25     20   0    7624   5236   3156 R   1.0   0.1   0:00.01 top
+      1 root      20   0   26108  15940  10692 S   0.0   0.2   0:01.57 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      5 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      6 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+
+=== 07/10/2026 20:54:59 | Etapa: mprime (Torture Test) - 10 min ===
+top - 20:55:01 up  1:29,  1 user,  load average: 4.00, 3.25, 3.00
+Tasks: 199 total,   1 running, 198 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.2 us,  0.0 sy, 99.8 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   7832.2 total,   3726.4 free,   1384.0 used,   3188.9 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   6448.2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3692 iss25     20   0  408708  18588   6180 S 398.0   0.2  25:16.74 mprime
+      1 root      20   0   26108  15940  10692 S   0.0   0.2   0:01.57 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      5 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      6 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      7 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+
+=== 07/10/2026 20:56:01 | Etapa: mprime (Torture Test) - 10 min ===
+top - 20:56:02 up  1:30,  1 user,  load average: 4.00, 3.39, 3.06
+Tasks: 199 total,   1 running, 198 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.2 us,  0.7 sy, 99.1 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   7832.2 total,   3725.7 free,   1384.7 used,   3190.9 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   6447.5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3692 iss25     20   0  408708  18588   6180 S 400.0   0.2  29:22.09 mprime
+   1897 iss25     20   0  508252  73092  38720 S   2.0   0.9   0:12.67 mintrep+
+   3817 iss25     20   0    7624   5308   3228 R   1.0   0.1   0:00.01 top
+      1 root      20   0   26108  15940  10692 S   0.0   0.2   0:01.57 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      5 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+
+=== 07/10/2026 20:57:02 | Etapa: mprime (Torture Test) - 10 min ===
+top - 20:57:03 up  1:31,  1 user,  load average: 4.00, 3.51, 3.13
+Tasks: 199 total,   1 running, 198 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.0 sy,100.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   7832.2 total,   3725.4 free,   1385.0 used,   3188.9 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   6447.2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3692 iss25     20   0  408708  18588   6180 S 399.0   0.2  33:27.37 mprime
+      1 root      20   0   26108  15940  10692 S   0.0   0.2   0:01.58 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      5 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      6 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      7 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+
+=== 07/10/2026 20:58:04 | Etapa: mprime (Torture Test) - 10 min ===
+top - 20:58:05 up  1:32,  1 user,  load average: 4.00, 3.60, 3.19
+Tasks: 199 total,   1 running, 198 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.0 sy,100.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   7832.2 total,   3716.1 free,   1394.3 used,   3188.9 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   6437.9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3692 iss25     20   0  408708  23076   6180 S 399.0   0.3  37:32.59 mprime
+   3852 iss25     20   0    7624   5340   3260 R   1.0   0.1   0:00.01 top
+      1 root      20   0   26108  15940  10692 S   0.0   0.2   0:01.58 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      5 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      6 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+
+=== 07/10/2026 20:59:05 | Etapa: Pausa (wattímetro) ===
+top - 20:59:06 up  1:33,  1 user,  load average: 2.63, 3.35, 3.13
+Tasks: 196 total,   1 running, 195 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.2 us,  0.2 sy,  0.0 ni, 99.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   7832.2 total,   3745.3 free,   1365.1 used,   3188.9 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   6467.1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3871 iss25     20   0    7624   5352   3268 R   1.0   0.1   0:00.02 top
+      1 root      20   0   26108  15940  10692 S   0.0   0.2   0:01.58 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      5 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      6 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      7 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+
+=== 07/10/2026 21:00:06 | Etapa: Pausa (wattímetro) ===
+top - 21:00:08 up  1:34,  1 user,  load average: 0.96, 2.74, 2.93
+Tasks: 198 total,   1 running, 197 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.4 us,  0.2 sy,  0.0 ni, 99.1 id,  0.2 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   7832.2 total,   3749.5 free,   1360.9 used,   3188.9 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   6471.3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1653 iss25     20   0 4250892 205340 124124 S   1.0   2.6   0:16.28 cinnamon
+   3888 iss25     20   0    7624   5296   3212 R   1.0   0.1   0:00.02 top
+      1 root      20   0   26108  15940  10692 S   0.0   0.2   0:01.58 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      5 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      6 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+

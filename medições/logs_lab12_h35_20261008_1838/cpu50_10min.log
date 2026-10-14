@@ -1,0 +1,87 @@
+stress-ng: info:  [2184] setting to a 10 mins run per stressor
+stress-ng: info:  [2184] dispatching hogs: 4 cpu
+stress-ng: info:  [2184] note: 4 cpus have scaling governors set to powersave and this may impact performance; setting /sys/devices/system/cpu/cpu*/cpufreq/scaling_governor to 'performance' may improve performance
+stress-ng: info:  [2185] therm: AvGHz MnGHz MxGHz  LdA1  LdA5 LdA15  x86_pk
+stress-ng: info:  [2185] therm:  1.00  1.00  1.00  0.05  0.11  0.09   34.00
+stress-ng: info:  [2186] cpu: for stable load results, select a specific cpu stress method with --cpu-method other than 'all'
+stress-ng: info:  [2187] cpu: for stable load results, select a specific cpu stress method with --cpu-method other than 'all'
+stress-ng: info:  [2188] cpu: for stable load results, select a specific cpu stress method with --cpu-method other than 'all'
+stress-ng: info:  [2189] cpu: for stable load results, select a specific cpu stress method with --cpu-method other than 'all'
+stress-ng: info:  [2185] therm:  1.00  1.00  1.00  0.34  0.17  0.11   34.00
+stress-ng: info:  [2185] therm:  0.80  0.80  0.80  0.61  0.23  0.13   33.00
+stress-ng: info:  [2185] therm:  1.87  1.80  1.89  0.84  0.29  0.15   34.00
+stress-ng: info:  [2185] therm:  1.00  1.00  1.00  1.00  0.34  0.17   34.00
+stress-ng: info:  [2185] therm:  0.80  0.80  0.80  1.14  0.40  0.19   35.00
+stress-ng: info:  [2185] therm:  0.80  0.80  0.80  0.97  0.38  0.18   35.00
+stress-ng: info:  [2185] therm:  1.00  1.00  1.00  1.14  0.44  0.20   35.00
+stress-ng: info:  [2185] therm:  1.00  1.00  1.00  1.12  0.46  0.21   34.00
+stress-ng: info:  [2185] therm:  1.15  0.80  1.65  1.25  0.51  0.23   34.00
+stress-ng: info:  [2185] therm:  0.80  0.80  0.80  1.42  0.57  0.25   35.00
+stress-ng: info:  [2185] therm:  1.00  1.00  1.00  1.20  0.55  0.25   34.00
+stress-ng: info:  [2185] therm:  0.80  0.80  0.80  1.31  0.60  0.27   34.00
+stress-ng: info:  [2185] therm:  1.00  1.00  1.00  1.43  0.65  0.29   35.00
+stress-ng: info:  [2185] therm:  1.00  1.00  1.00  1.32  0.64  0.29   35.00
+stress-ng: info:  [2185] therm:  0.80  0.80  0.80  1.73  0.75  0.33   34.00
+stress-ng: info:  [2185] therm:  0.80  0.80  0.80  1.46  0.72  0.32   34.00
+stress-ng: info:  [2185] therm:  1.09  0.80  1.98  1.24  0.70  0.32   35.00
+stress-ng: info:  [2185] therm:  0.80  0.80  0.80  1.05  0.67  0.32   35.00
+stress-ng: info:  [2185] therm:  1.00  1.00  1.00  0.89  0.65  0.31   34.00
+stress-ng: info:  [2185] therm:  0.80  0.80  0.80  1.44  0.78  0.36   34.00
+stress-ng: info:  [2185] therm:  1.87  1.80  1.90  1.98  0.92  0.41   35.00
+stress-ng: info:  [2185] therm:  1.00  1.00  1.00  1.75  0.90  0.41   35.00
+stress-ng: info:  [2185] therm:  1.28  0.80  1.80  1.78  0.94  0.43   34.00
+stress-ng: info:  [2185] therm:  1.00  1.00  1.00  2.12  1.04  0.46   35.00
+stress-ng: info:  [2185] therm: AvGHz MnGHz MxGHz  LdA1  LdA5 LdA15  x86_pk
+stress-ng: info:  [2185] therm:  0.80  0.80  0.80  2.09  1.07  0.48   35.00
+stress-ng: info:  [2185] therm:  1.15  0.80  2.20  2.38  1.17  0.52   35.00
+stress-ng: info:  [2185] therm:  1.20  1.20  1.20  2.33  1.20  0.54   35.00
+stress-ng: info:  [2185] therm:  0.80  0.80  0.80  2.27  1.22  0.55   35.00
+stress-ng: info:  [2185] therm:  1.00  1.00  1.00  2.22  1.25  0.57   35.00
+stress-ng: info:  [2185] therm:  1.00  1.00  1.00  2.20  1.27  0.58   35.00
+stress-ng: info:  [2185] therm:  1.41  1.28  1.46  2.18  1.30  0.60   35.00
+stress-ng: info:  [2185] therm:  0.80  0.80  0.80  2.46  1.39  0.63   35.00
+stress-ng: info:  [2185] therm:  1.00  1.00  1.00  2.38  1.41  0.65   35.00
+stress-ng: info:  [2185] therm:  0.80  0.80  0.80  2.01  1.36  0.64   35.00
+stress-ng: info:  [2185] therm:  1.80  1.80  1.80  2.00  1.38  0.65   35.00
+stress-ng: info:  [2185] therm:  1.00  1.00  1.00  1.69  1.33  0.65   35.00
+stress-ng: info:  [2185] therm:  1.00  1.00  1.00  1.75  1.36  0.66   35.00
+stress-ng: info:  [2185] therm:  0.80  0.80  0.80  1.48  1.31  0.65   35.00
+stress-ng: info:  [2185] therm:  1.00  1.00  1.00  1.25  1.27  0.65   35.00
+stress-ng: info:  [2185] therm:  1.00  1.00  1.00  1.06  1.23  0.64   35.00
+stress-ng: info:  [2185] therm:  1.40  1.40  1.40  0.90  1.18  0.63   35.00
+stress-ng: info:  [2185] therm:  1.00  1.00  1.00  1.05  1.21  0.64   35.00
+stress-ng: info:  [2185] therm:  1.00  1.00  1.00  1.19  1.24  0.66   35.00
+stress-ng: info:  [2185] therm:  0.90  0.90  0.90  1.32  1.26  0.67   35.00
+stress-ng: info:  [2185] therm:  1.00  1.00  1.00  1.12  1.22  0.67   35.00
+stress-ng: info:  [2185] therm:  0.90  0.90  0.90  1.32  1.26  0.68   35.00
+stress-ng: info:  [2185] therm:  0.96  0.80  1.45  1.41  1.29  0.70   35.00
+stress-ng: info:  [2185] therm:  1.00  1.00  1.00  1.51  1.31  0.71   36.00
+stress-ng: info:  [2185] therm:  1.00  1.00  1.00  1.60  1.33  0.73   35.00
+stress-ng: info:  [2185] therm: AvGHz MnGHz MxGHz  LdA1  LdA5 LdA15  x86_pk
+stress-ng: info:  [2185] therm:  1.09  1.01  1.14  1.65  1.35  0.74   35.00
+stress-ng: info:  [2185] therm:  1.27  0.80  1.80  2.01  1.44  0.78   35.00
+stress-ng: info:  [2185] therm:  1.69  1.69  1.69  2.02  1.46  0.79   37.00
+stress-ng: info:  [2185] therm:  0.80  0.80  0.80  2.08  1.49  0.81   35.00
+stress-ng: info:  [2185] therm:  0.80  0.80  0.80  1.76  1.44  0.80   35.00
+stress-ng: info:  [2185] therm:  1.29  1.29  1.29  1.81  1.46  0.81   36.00
+stress-ng: info:  [2185] therm:  1.00  1.00  1.00  1.53  1.42  0.80   36.00
+stress-ng: info:  [2185] therm:  0.80  0.80  0.80  1.91  1.50  0.84   35.00
+stress-ng: info:  [2185] therm:  1.00  1.00  1.00  1.94  1.52  0.85   36.00
+stress-ng: info:  [2185] therm:  0.80  0.80  0.80  1.93  1.53  0.86   36.00
+stress-ng: info:  [2185] therm:  0.80  0.80  0.80  2.25  1.61  0.90   35.00
+stress-ng: metrc: [2184] stressor       bogo ops real time  usr time  sys time   bogo ops/s     bogo ops/s
+stress-ng: metrc: [2184]                           (secs)    (secs)    (secs)   (real time) (usr+sys time)
+stress-ng: metrc: [2184] cpu              575196    600.00   1200.20      0.38       958.66         479.10
+stress-ng: info:  [2184] cpu:
+stress-ng: info:  [2184]  x86_pkg_temp           35.00 C (308.15 K)
+stress-ng: info:  [2184] for a 600.00s run time:
+stress-ng: info:  [2184]    2400.02s available CPU time
+stress-ng: info:  [2184]    1200.20s user time   ( 50.01%)
+stress-ng: info:  [2184]       0.37s system time (  0.02%)
+stress-ng: info:  [2184]    1200.57s total time  ( 50.02%)
+stress-ng: info:  [2184] load average: 2.25 1.61 0.90
+stress-ng: info:  [2184] skipped: 0
+stress-ng: info:  [2184] passed: 4: cpu (4)
+stress-ng: info:  [2184] failed: 0
+stress-ng: info:  [2184] metrics untrustworthy: 0
+stress-ng: info:  [2184] successful run completed in 10 mins

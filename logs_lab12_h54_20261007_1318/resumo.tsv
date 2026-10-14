@@ -1,6 +1,0 @@
-Etapa	Amostras	Duração (s)	Uso de CPU médio (%)	Carga média 1 min (média)	Frequência média (MHz)	Memória em uso média (%)	Temp. CPU média (°C)	Temp. CPU pico (°C)
-stress-ng CPU 50% - 10 min	117	594	50.3	2.00	1106	13.7	29.5	32.0
-stress-ng CPU 75% - 10 min	117	594	74.8	2.80	3601	17.2	52.8	60.0
-stress-ng CPU 100% - 10 min	117	593	99.7	3.65	3599	17.4	65.1	73.0
-stress-ng CPU + RAM - 10 min	118	598	99.4	5.45	3588	50.3	68.9	77.0
-mprime (Torture Test) - 10 min	117	592	99.4	3.63	3535	17.8	85.3	92.0

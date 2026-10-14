@@ -1,0 +1,5 @@
+Etapa	Máquina	Laboratório	Data	Início (epoch)	Fim (epoch)	Duração (s)	Consumo (kWh)	Potência mínima (W)	Potência máxima (W)	Potência atual (W)	Potência média calculada (W)	Tensão (V)	Corrente (A)	CO2e (g)
+stress-ng CPU 50% - 10 min	h56	lab12	07/10/2026	1791412259	1791412859	600	0.001	12.5	28.2	28.2	6.0	125.4	0.232	NA
+stress-ng CPU 75% - 10 min	h56	lab12	07/10/2026	1791413179	1791413779	600	0.003	34.9	38.8	35.9	18.0	125.6	0.279	NA
+stress-ng CPU 100% - 10 min	h56	lab12	07/10/2026	1791414117	1791414717	600	0.004	41.6	43.2	42.9	24.0	124.9	0.337	NA
+stress-ng CPU + RAM - 10 min	h56	lab12	07/10/2026	1791414986	1791415586	600	0.004	39.7	45.5	43.9	24.0	125.4	0.348	NA

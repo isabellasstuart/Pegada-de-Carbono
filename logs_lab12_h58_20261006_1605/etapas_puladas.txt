@@ -1,2 +1,0 @@
-06/10/2026 16:05:17 | stress-ng CPU 50% - 10 min | pulada pelo usuário
-06/10/2026 16:05:18 | stress-ng CPU 75% - 10 min | pulada pelo usuário
